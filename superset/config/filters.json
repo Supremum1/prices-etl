@@ -1,0 +1,86 @@
+[
+  {
+    "key": "product",
+    "name": "Продукт",
+    "column": "product",
+    "default": [
+      "Картофель"
+    ],
+    "charts": [
+      "official_price",
+      "median",
+      "spread",
+      "cities",
+      "price_rank",
+      "premium",
+      "price_table",
+      "price_trend",
+      "normalized",
+      "seasonal",
+      "price_week"
+    ],
+    "multi": false,
+    "description": "Выберите продукт."
+  },
+  {
+    "key": "basket_products",
+    "name": "Состав корзины",
+    "column": "product",
+    "default": [
+      "Гречневая крупа",
+      "Капуста белокочанная",
+      "Картофель",
+      "Лук репчатый",
+      "Масло подсолнечное",
+      "Морковь",
+      "Мука пшеничная, 1 сорт",
+      "Рис шлифованный",
+      "Сахар-песок",
+      "Хлеб пшеничный, 1 сорт",
+      "Яйца, I категории"
+    ],
+    "charts": [
+      "basket",
+      "basket_overview",
+      "basket_rank",
+      "basket_premium",
+      "basket_index",
+      "basket_table"
+    ],
+    "multi": true,
+    "description": "По одной единице каждого продукта: кг, л или 10 яиц."
+  },
+  {
+    "key": "city",
+    "name": "Города в динамике",
+    "column": "city",
+    "default": [
+      "Казахстан",
+      "Астана",
+      "Кызылорда"
+    ],
+    "charts": [
+      "price_trend",
+      "normalized",
+      "price_week",
+      "basket_overview",
+      "basket_index"
+    ],
+    "multi": true,
+    "description": "Выберите города для сравнения на временных графиках."
+  },
+  {
+    "key": "time",
+    "name": "Период",
+    "charts": [
+      "inflation",
+      "basket_overview",
+      "price_trend",
+      "normalized",
+      "seasonal",
+      "price_week",
+      "basket_index",
+      "coverage"
+    ]
+  }
+]

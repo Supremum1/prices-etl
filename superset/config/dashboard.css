@@ -1,0 +1,72 @@
+/* Цвета текста, фона и графиков задаёт активная тема Superset. */
+#HERO .dashboard-component {
+  background: transparent !important;
+  border: 0 !important;
+  box-shadow: none !important;
+  padding: 0 4px !important;
+  font-size: 13px;
+}
+#HERO p { margin: 0; line-height: 24px; }
+#HERO h2 { margin: 0 0 4px; font-size: 26px; font-weight: 600; line-height: 34px; }
+#HERO a { color: inherit; text-decoration: underline; text-underline-offset: 3px; }
+.dashboard-component-chart-holder {
+  border-radius: 10px !important;
+  border: 1px solid color-mix(in srgb, currentColor 14%, transparent) !important;
+  box-shadow: none !important;
+}
+.dashboard-component-tabs > .ant-tabs-nav { background: transparent !important; }
+[id^="NOTE_"] .dashboard-component {
+  background: transparent !important;
+  border: 0 !important;
+  box-shadow: none !important;
+  padding: 0 4px !important;
+}
+[id^="NOTE_"] p { margin: 0; line-height: 26px; }
+[id^="NOTE_"] abbr { cursor: help; text-decoration: underline dotted; text-underline-offset: 3px; }
+.big_number_total .header-line {
+  font-size: 36px !important;
+  font-weight: 600 !important;
+  font-variant-numeric: tabular-nums;
+}
+.big_number_total .subheader-line { font-size: 13px !important; }
+body.standalone .chart-slice[data-test-viz-type="big_number_total"] .header-controls { display: none; }
+.big_number_total .superset-legacy-chart-big-number {
+  justify-content: flex-start !important;
+  padding-top: 12px;
+}
+/* В режиме чтения карточки переносятся, а не выходят за край окна. */
+@media (max-width: 1200px) {
+  body.standalone .grid-row:has(#CHART_official_price) {
+    display: grid !important;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 16px;
+  }
+  body.standalone .grid-row:has(#CHART_official_price) > .dragdroppable {
+    min-width: 0 !important;
+    margin: 0 !important;
+  }
+  body.standalone .grid-row:has(#CHART_official_price) > .dragdroppable > .resizable-container {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+  }
+}
+@media (max-width: 1000px) {
+  body.standalone .grid-row:has(#CHART_yoy) {
+    display: grid !important;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 16px;
+  }
+  body.standalone .grid-row:has(#CHART_yoy) > .dragdroppable { min-width: 0 !important; margin: 0 !important; }
+  body.standalone .grid-row:has(#CHART_yoy) > .dragdroppable > .resizable-container {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+  }
+}
+@media (max-width: 600px) {
+  body.standalone .grid-row:has(#CHART_official_price),
+  body.standalone .grid-row:has(#CHART_yoy) { grid-template-columns: minmax(0, 1fr); }
+}
+/* Неактивные фильтры появляются сами при переходе на нужную вкладку. */
+.ant-collapse.ant-collapse-ghost { display: none !important; }

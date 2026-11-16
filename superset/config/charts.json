@@ -1,0 +1,1063 @@
+[
+  {
+    "key": "yoy",
+    "table": "indices_latest",
+    "params": {
+      "viz_type": "big_number_total",
+      "adhoc_filters": [
+        {
+          "expressionType": "SIMPLE",
+          "subject": "city",
+          "operator": "==",
+          "comparator": "Казахстан",
+          "clause": "WHERE",
+          "sqlExpression": null,
+          "filterOptionName": "filter_city_Казахстан"
+        },
+        {
+          "expressionType": "SIMPLE",
+          "subject": "product_id",
+          "operator": "==",
+          "comparator": "all_food",
+          "clause": "WHERE",
+          "sqlExpression": null,
+          "filterOptionName": "filter_product_id_all_food"
+        },
+        {
+          "expressionType": "SIMPLE",
+          "subject": "metric",
+          "operator": "==",
+          "comparator": "yoy",
+          "clause": "WHERE",
+          "sqlExpression": null,
+          "filterOptionName": "filter_metric_yoy"
+        }
+      ],
+      "row_limit": 10000,
+      "show_legend": false,
+      "x_axis_time_format": "%b %Y",
+      "y_axis_format": "+.1f",
+      "truncateYAxis": true,
+      "zoomable": false,
+      "metric": {
+        "expressionType": "SIMPLE",
+        "column": {
+          "column_name": "change_pct"
+        },
+        "aggregate": "MAX",
+        "sqlExpression": null,
+        "label": "Рост за год",
+        "hasCustomLabel": true,
+        "optionName": "metric_change_pct_MAX"
+      },
+      "subheader": "Социально значимые продукты",
+      "header_font_size": 0.6,
+      "subheader_font_size": 0.2,
+      "description": "Официальный годовой индекс цен социально значимых продуктов, за вычетом 100. Это не общий индекс потребительских цен.",
+      "legendType": "plain"
+    },
+    "title": "Рост цен за год, %",
+    "previous_title": "Рост за год, %"
+  },
+  {
+    "key": "wow",
+    "table": "indices_latest",
+    "params": {
+      "viz_type": "big_number_total",
+      "adhoc_filters": [
+        {
+          "expressionType": "SIMPLE",
+          "subject": "city",
+          "operator": "==",
+          "comparator": "Казахстан",
+          "clause": "WHERE",
+          "sqlExpression": null,
+          "filterOptionName": "filter_city_Казахстан"
+        },
+        {
+          "expressionType": "SIMPLE",
+          "subject": "product_id",
+          "operator": "==",
+          "comparator": "all_food",
+          "clause": "WHERE",
+          "sqlExpression": null,
+          "filterOptionName": "filter_product_id_all_food"
+        },
+        {
+          "expressionType": "SIMPLE",
+          "subject": "metric",
+          "operator": "==",
+          "comparator": "wow",
+          "clause": "WHERE",
+          "sqlExpression": null,
+          "filterOptionName": "filter_metric_wow"
+        }
+      ],
+      "row_limit": 10000,
+      "show_legend": false,
+      "x_axis_time_format": "%b %Y",
+      "y_axis_format": "+.1f",
+      "truncateYAxis": true,
+      "zoomable": false,
+      "metric": {
+        "expressionType": "SIMPLE",
+        "column": {
+          "column_name": "change_pct"
+        },
+        "aggregate": "MAX",
+        "sqlExpression": null,
+        "label": "Рост за неделю",
+        "hasCustomLabel": true,
+        "optionName": "metric_change_pct_MAX"
+      },
+      "subheader": "Социально значимые продукты",
+      "header_font_size": 0.6,
+      "subheader_font_size": 0.2,
+      "description": "Официальное изменение цен социально значимых продуктов за неделю.",
+      "legendType": "plain"
+    },
+    "title": "Рост цен за неделю, %",
+    "previous_title": "Рост за неделю, %"
+  },
+  {
+    "key": "basket",
+    "table": "basket_latest",
+    "params": {
+      "viz_type": "big_number_total",
+      "adhoc_filters": [
+        {
+          "expressionType": "SIMPLE",
+          "subject": "city",
+          "operator": "==",
+          "comparator": "Казахстан",
+          "clause": "WHERE",
+          "sqlExpression": null,
+          "filterOptionName": "filter_city_Казахстан"
+        }
+      ],
+      "row_limit": 10000,
+      "show_legend": false,
+      "x_axis_time_format": "%b %Y",
+      "y_axis_format": ",.0f",
+      "truncateYAxis": true,
+      "zoomable": false,
+      "metric": {
+        "expressionType": "SIMPLE",
+        "column": {
+          "column_name": "basket_cost"
+        },
+        "aggregate": "MAX",
+        "sqlExpression": null,
+        "label": "Корзина",
+        "hasCustomLabel": true,
+        "optionName": "metric_basket_cost_MAX"
+      },
+      "subheader": "По Казахстану",
+      "header_font_size": 0.6,
+      "subheader_font_size": 0.2,
+      "description": "Стоимость выбранного состава корзины по стране.",
+      "legendType": "plain"
+    },
+    "title": "Корзина, ₸",
+    "previous_title": "Корзина 11 продуктов, ₸"
+  },
+  {
+    "key": "products",
+    "table": "prices_latest",
+    "params": {
+      "viz_type": "big_number_total",
+      "adhoc_filters": [
+        {
+          "expressionType": "SIMPLE",
+          "subject": "city",
+          "operator": "==",
+          "comparator": "Казахстан",
+          "clause": "WHERE",
+          "sqlExpression": null,
+          "filterOptionName": "filter_city_Казахстан"
+        }
+      ],
+      "row_limit": 10000,
+      "show_legend": false,
+      "x_axis_time_format": "%b %Y",
+      "y_axis_format": ",.0f",
+      "truncateYAxis": true,
+      "zoomable": false,
+      "metric": {
+        "expressionType": "SIMPLE",
+        "column": {
+          "column_name": "product_id"
+        },
+        "aggregate": "COUNT_DISTINCT",
+        "sqlExpression": null,
+        "label": "Товары",
+        "hasCustomLabel": true,
+        "optionName": "metric_product_id_COUNT_DISTINCT"
+      },
+      "subheader": "",
+      "header_font_size": 0.6,
+      "subheader_font_size": 0.2,
+      "description": "",
+      "legendType": "plain"
+    },
+    "title": "Продукты",
+    "previous_title": "Товаров в последнем выпуске"
+  },
+  {
+    "key": "inflation",
+    "table": "index_history",
+    "params": {
+      "viz_type": "echarts_timeseries_line",
+      "adhoc_filters": [
+        {
+          "expressionType": "SIMPLE",
+          "subject": "city",
+          "operator": "==",
+          "comparator": "Казахстан",
+          "clause": "WHERE",
+          "sqlExpression": null,
+          "filterOptionName": "filter_city_Казахстан"
+        },
+        {
+          "expressionType": "SIMPLE",
+          "subject": "product_id",
+          "operator": "==",
+          "comparator": "all_food",
+          "clause": "WHERE",
+          "sqlExpression": null,
+          "filterOptionName": "filter_product_id_all_food"
+        },
+        {
+          "expressionType": "SIMPLE",
+          "subject": "metric",
+          "operator": "==",
+          "comparator": "yoy",
+          "clause": "WHERE",
+          "sqlExpression": null,
+          "filterOptionName": "filter_metric_yoy"
+        }
+      ],
+      "row_limit": 10000,
+      "show_legend": false,
+      "x_axis_time_format": "%b %Y",
+      "y_axis_format": ".1f",
+      "truncateYAxis": true,
+      "zoomable": false,
+      "x_axis": "observation_date",
+      "metrics": [
+        {
+          "expressionType": "SIMPLE",
+          "column": {
+            "column_name": "change_pct"
+          },
+          "aggregate": "AVG",
+          "sqlExpression": null,
+          "label": "Рост за год, %",
+          "hasCustomLabel": true,
+          "optionName": "metric_change_pct_AVG"
+        }
+      ],
+      "groupby": [],
+      "area": true,
+      "description": "",
+      "legendType": "plain"
+    },
+    "title": "Рост цен на продукты за год, %",
+    "previous_title": "Как менялась инфляция СЗПТ · % за год"
+  },
+  {
+    "key": "city_inflation",
+    "table": "indices_latest",
+    "params": {
+      "viz_type": "echarts_timeseries_bar",
+      "adhoc_filters": [
+        {
+          "expressionType": "SIMPLE",
+          "subject": "city",
+          "operator": "!=",
+          "comparator": "Казахстан",
+          "clause": "WHERE",
+          "sqlExpression": null,
+          "filterOptionName": "filter_city_Казахстан"
+        },
+        {
+          "expressionType": "SIMPLE",
+          "subject": "product_id",
+          "operator": "==",
+          "comparator": "all_food",
+          "clause": "WHERE",
+          "sqlExpression": null,
+          "filterOptionName": "filter_product_id_all_food"
+        },
+        {
+          "expressionType": "SIMPLE",
+          "subject": "metric",
+          "operator": "==",
+          "comparator": "yoy",
+          "clause": "WHERE",
+          "sqlExpression": null,
+          "filterOptionName": "filter_metric_yoy"
+        }
+      ],
+      "row_limit": 10000,
+      "show_legend": false,
+      "x_axis_time_format": "%b %Y",
+      "y_axis_format": ".1f",
+      "truncateYAxis": false,
+      "zoomable": false,
+      "x_axis": "city",
+      "metrics": [
+        {
+          "expressionType": "SIMPLE",
+          "column": {
+            "column_name": "change_pct"
+          },
+          "aggregate": "AVG",
+          "sqlExpression": null,
+          "label": "За год, %",
+          "hasCustomLabel": true,
+          "optionName": "metric_change_pct_AVG"
+        }
+      ],
+      "groupby": [],
+      "orientation": "horizontal",
+      "sort_series_type": "sum",
+      "sort_series_ascending": false,
+      "x_axis_sort": "За год, %",
+      "x_axis_sort_asc": true,
+      "order_desc": true,
+      "show_value": true,
+      "description": "",
+      "legendType": "plain",
+      "xAxisLabelInterval": "0"
+    },
+    "title": "Рост цен по городам за год, %",
+    "previous_title": "Где цены растут быстрее · % за год"
+  },
+  {
+    "key": "movers",
+    "table": "indices_movers_latest",
+    "params": {
+      "viz_type": "echarts_timeseries_bar",
+      "adhoc_filters": [],
+      "row_limit": 1000,
+      "show_legend": false,
+      "x_axis_time_format": "%b %Y",
+      "y_axis_format": ".1f",
+      "truncateYAxis": false,
+      "zoomable": false,
+      "x_axis": "product_short",
+      "metrics": [
+        {
+          "expressionType": "SIMPLE",
+          "column": {
+            "column_name": "change_pct"
+          },
+          "aggregate": "AVG",
+          "sqlExpression": null,
+          "label": "За неделю, %",
+          "hasCustomLabel": true,
+          "optionName": "metric_change_pct_AVG"
+        }
+      ],
+      "groupby": [],
+      "orientation": "horizontal",
+      "sort_series_type": "sum",
+      "sort_series_ascending": false,
+      "x_axis_sort": "За неделю, %",
+      "x_axis_sort_asc": true,
+      "order_desc": true,
+      "show_value": true,
+      "description": "",
+      "legendType": "plain",
+      "xAxisLabelInterval": "0"
+    },
+    "title": "Наибольший рост за неделю, %",
+    "previous_title": "15 лидеров недельного изменения · %"
+  },
+  {
+    "key": "basket_overview",
+    "table": "basket_history",
+    "params": {
+      "viz_type": "echarts_timeseries_line",
+      "adhoc_filters": [],
+      "row_limit": 10000,
+      "show_legend": true,
+      "x_axis_time_format": "%b %Y",
+      "y_axis_format": ",.0f",
+      "truncateYAxis": true,
+      "zoomable": false,
+      "x_axis": "observation_date",
+      "metrics": [
+        {
+          "expressionType": "SIMPLE",
+          "column": {
+            "column_name": "basket_cost"
+          },
+          "aggregate": "AVG",
+          "sqlExpression": null,
+          "label": "Корзина, ₸",
+          "hasCustomLabel": true,
+          "optionName": "metric_basket_cost_AVG"
+        }
+      ],
+      "groupby": [
+        "city"
+      ],
+      "description": "",
+      "legendType": "plain"
+    },
+    "title": "Стоимость корзины, ₸",
+    "previous_title": "Стоимость постоянного набора · ₸"
+  },
+  {
+    "key": "official_price",
+    "table": "prices_latest",
+    "params": {
+      "viz_type": "big_number_total",
+      "adhoc_filters": [
+        {
+          "expressionType": "SIMPLE",
+          "subject": "city",
+          "operator": "==",
+          "comparator": "Казахстан",
+          "clause": "WHERE",
+          "sqlExpression": null,
+          "filterOptionName": "filter_city_Казахстан"
+        }
+      ],
+      "row_limit": 10000,
+      "show_legend": false,
+      "x_axis_time_format": "%b %Y",
+      "y_axis_format": ",.0f",
+      "truncateYAxis": true,
+      "zoomable": false,
+      "metric": {
+        "expressionType": "SIMPLE",
+        "column": {
+          "column_name": "price"
+        },
+        "aggregate": "MAX",
+        "sqlExpression": null,
+        "label": "Цена",
+        "hasCustomLabel": true,
+        "optionName": "metric_price_MAX"
+      },
+      "subheader": "По Казахстану",
+      "header_font_size": 0.6,
+      "subheader_font_size": 0.2,
+      "description": "",
+      "legendType": "plain"
+    },
+    "title": "Средняя цена, ₸",
+    "previous_title": "Цена по стране, ₸ за единицу"
+  },
+  {
+    "key": "median",
+    "table": "dispersion_latest",
+    "params": {
+      "viz_type": "big_number_total",
+      "adhoc_filters": [],
+      "row_limit": 10000,
+      "show_legend": false,
+      "x_axis_time_format": "%b %Y",
+      "y_axis_format": ",.0f",
+      "truncateYAxis": true,
+      "zoomable": false,
+      "metric": {
+        "expressionType": "SIMPLE",
+        "column": {
+          "column_name": "min_price"
+        },
+        "aggregate": "MAX",
+        "sqlExpression": null,
+        "label": "Минимальная цена",
+        "hasCustomLabel": true,
+        "optionName": "metric_median_price_MAX"
+      },
+      "subheader": "",
+      "header_font_size": 0.6,
+      "subheader_font_size": 0.2,
+      "description": "Самая низкая опубликованная средняя цена среди городов.",
+      "legendType": "plain"
+    },
+    "title": "Минимальная цена, ₸",
+    "previous_title": "Медиана городских цен, ₸"
+  },
+  {
+    "key": "spread",
+    "table": "dispersion_latest",
+    "params": {
+      "viz_type": "big_number_total",
+      "adhoc_filters": [],
+      "row_limit": 10000,
+      "show_legend": false,
+      "x_axis_time_format": "%b %Y",
+      "y_axis_format": ",.0f",
+      "truncateYAxis": true,
+      "zoomable": false,
+      "metric": {
+        "expressionType": "SIMPLE",
+        "column": {
+          "column_name": "max_price"
+        },
+        "aggregate": "MAX",
+        "sqlExpression": null,
+        "label": "Максимальная цена",
+        "hasCustomLabel": true,
+        "optionName": "metric_spread_pct_MAX"
+      },
+      "subheader": "",
+      "header_font_size": 0.6,
+      "subheader_font_size": 0.2,
+      "description": "Самая высокая опубликованная средняя цена среди городов.",
+      "legendType": "plain"
+    },
+    "title": "Максимальная цена, ₸",
+    "previous_title": "Разрыв max / min, %"
+  },
+  {
+    "key": "cities",
+    "table": "dispersion_latest",
+    "params": {
+      "viz_type": "big_number_total",
+      "adhoc_filters": [],
+      "row_limit": 10000,
+      "show_legend": false,
+      "x_axis_time_format": "%b %Y",
+      "y_axis_format": ".1f",
+      "truncateYAxis": true,
+      "zoomable": false,
+      "metric": {
+        "expressionType": "SIMPLE",
+        "column": {
+          "column_name": "spread_pct"
+        },
+        "aggregate": "MAX",
+        "sqlExpression": null,
+        "label": "Разница цен",
+        "hasCustomLabel": true,
+        "optionName": "metric_cities_available_MAX"
+      },
+      "subheader": "",
+      "header_font_size": 0.6,
+      "subheader_font_size": 0.2,
+      "description": "На сколько процентов максимальная городская цена выше минимальной.",
+      "legendType": "plain"
+    },
+    "title": "Разница цен, %",
+    "previous_title": "Городов с наблюдениями"
+  },
+  {
+    "key": "price_rank",
+    "table": "prices_latest",
+    "params": {
+      "viz_type": "echarts_timeseries_bar",
+      "adhoc_filters": [
+        {
+          "expressionType": "SIMPLE",
+          "subject": "city",
+          "operator": "!=",
+          "comparator": "Казахстан",
+          "clause": "WHERE",
+          "sqlExpression": null,
+          "filterOptionName": "filter_city_Казахстан"
+        }
+      ],
+      "row_limit": 10000,
+      "show_legend": false,
+      "x_axis_time_format": "%b %Y",
+      "y_axis_format": ",.0f",
+      "truncateYAxis": false,
+      "zoomable": false,
+      "x_axis": "city",
+      "metrics": [
+        {
+          "expressionType": "SIMPLE",
+          "column": {
+            "column_name": "price"
+          },
+          "aggregate": "AVG",
+          "sqlExpression": null,
+          "label": "Цена, ₸",
+          "hasCustomLabel": true,
+          "optionName": "metric_price_AVG"
+        }
+      ],
+      "groupby": [],
+      "orientation": "horizontal",
+      "sort_series_type": "sum",
+      "sort_series_ascending": false,
+      "x_axis_sort": "Цена, ₸",
+      "x_axis_sort_asc": true,
+      "order_desc": true,
+      "show_value": true,
+      "description": "",
+      "legendType": "plain",
+      "xAxisLabelInterval": "0"
+    },
+    "title": "Цены по городам, ₸",
+    "previous_title": "Цена выбранного продукта · все города"
+  },
+  {
+    "key": "premium",
+    "table": "prices_latest",
+    "params": {
+      "viz_type": "echarts_timeseries_bar",
+      "adhoc_filters": [
+        {
+          "expressionType": "SIMPLE",
+          "subject": "city",
+          "operator": "!=",
+          "comparator": "Казахстан",
+          "clause": "WHERE",
+          "sqlExpression": null,
+          "filterOptionName": "filter_city_Казахстан"
+        }
+      ],
+      "row_limit": 10000,
+      "show_legend": false,
+      "x_axis_time_format": "%b %Y",
+      "y_axis_format": ".1f",
+      "truncateYAxis": false,
+      "zoomable": false,
+      "x_axis": "city",
+      "metrics": [
+        {
+          "expressionType": "SIMPLE",
+          "column": {
+            "column_name": "premium_pct"
+          },
+          "aggregate": "AVG",
+          "sqlExpression": null,
+          "label": "Отклонение, %",
+          "hasCustomLabel": true,
+          "optionName": "metric_premium_pct_AVG"
+        }
+      ],
+      "groupby": [],
+      "orientation": "horizontal",
+      "sort_series_type": "sum",
+      "sort_series_ascending": false,
+      "x_axis_sort": "Отклонение, %",
+      "x_axis_sort_asc": true,
+      "order_desc": true,
+      "show_value": true,
+      "description": "",
+      "legendType": "plain",
+      "xAxisLabelInterval": "0"
+    },
+    "title": "Разница с ценой по стране, %",
+    "previous_title": "Отклонение от цены по стране · %"
+  },
+  {
+    "key": "price_table",
+    "table": "prices_latest",
+    "params": {
+      "viz_type": "table",
+      "adhoc_filters": [],
+      "row_limit": 10000,
+      "show_legend": false,
+      "x_axis_time_format": "%b %Y",
+      "y_axis_format": ",.0f",
+      "truncateYAxis": true,
+      "zoomable": false,
+      "query_mode": "raw",
+      "all_columns": [
+        "city",
+        "unit",
+        "price",
+        "premium_pct"
+      ],
+      "order_by_cols": [
+        "[\"price\", false]"
+      ],
+      "page_length": 0,
+      "server_pagination": false,
+      "include_search": false,
+      "table_timestamp_format": "%d.%m.%Y",
+      "column_config": {
+        "price": {
+          "d3NumberFormat": ",.2f"
+        },
+        "national_price": {
+          "d3NumberFormat": ",.2f"
+        },
+        "premium_pct": {
+          "d3NumberFormat": "+.1f"
+        }
+      },
+      "description": "",
+      "legendType": "plain"
+    },
+    "title": "Цены и единицы измерения",
+    "previous_title": "Цены и источник · выбранные города"
+  },
+  {
+    "key": "price_trend",
+    "table": "price_history",
+    "params": {
+      "viz_type": "echarts_timeseries_line",
+      "adhoc_filters": [],
+      "row_limit": 10000,
+      "show_legend": true,
+      "x_axis_time_format": "%b %Y",
+      "y_axis_format": ",.0f",
+      "truncateYAxis": true,
+      "zoomable": false,
+      "x_axis": "observation_date",
+      "metrics": [
+        {
+          "expressionType": "SIMPLE",
+          "column": {
+            "column_name": "price"
+          },
+          "aggregate": "AVG",
+          "sqlExpression": null,
+          "label": "Цена, ₸",
+          "hasCustomLabel": true,
+          "optionName": "metric_price_AVG"
+        }
+      ],
+      "groupby": [
+        "city"
+      ],
+      "description": "",
+      "legendType": "plain"
+    },
+    "title": "Цена по неделям, ₸",
+    "previous_title": "Траектория цены · ₸ за единицу"
+  },
+  {
+    "key": "normalized",
+    "table": "price_history",
+    "params": {
+      "viz_type": "echarts_timeseries_line",
+      "adhoc_filters": [],
+      "row_limit": 10000,
+      "show_legend": true,
+      "x_axis_time_format": "%b %Y",
+      "y_axis_format": ".1f",
+      "truncateYAxis": true,
+      "zoomable": false,
+      "x_axis": "observation_date",
+      "metrics": [
+        {
+          "expressionType": "SQL",
+          "sqlExpression": "AVG(price_index) - 100",
+          "label": "Изменение, %",
+          "hasCustomLabel": true,
+          "optionName": "change_since_start"
+        }
+      ],
+      "groupby": [
+        "city"
+      ],
+      "description": "Изменение относительно первой доступной цены выбранного товара в каждом городе.",
+      "legendType": "plain"
+    },
+    "title": "Изменение цены с начала наблюдений, %",
+    "previous_title": "Сравнение темпов · первое наблюдение = 100"
+  },
+  {
+    "key": "seasonal",
+    "table": "price_history",
+    "params": {
+      "viz_type": "echarts_timeseries_line",
+      "adhoc_filters": [
+        {
+          "expressionType": "SIMPLE",
+          "subject": "city",
+          "operator": "==",
+          "comparator": "Казахстан",
+          "clause": "WHERE",
+          "sqlExpression": null,
+          "filterOptionName": "filter_city_Казахстан"
+        }
+      ],
+      "row_limit": 10000,
+      "show_legend": true,
+      "x_axis_time_format": "smart_date",
+      "y_axis_format": ",.0f",
+      "truncateYAxis": true,
+      "zoomable": false,
+      "x_axis": "month_label",
+      "metrics": [
+        {
+          "expressionType": "SIMPLE",
+          "column": {
+            "column_name": "price"
+          },
+          "aggregate": "AVG",
+          "sqlExpression": null,
+          "label": "Средняя цена, ₸",
+          "hasCustomLabel": true,
+          "optionName": "metric_price_AVG"
+        }
+      ],
+      "groupby": [
+        "year"
+      ],
+      "x_axis_sort": "name",
+      "x_axis_sort_asc": true,
+      "description": "Средняя цена по стране за месяц, отдельно для каждого года.",
+      "legendType": "plain",
+      "sort_series_type": "name",
+      "sort_series_ascending": true
+    },
+    "title": "Сезонность по месяцам, ₸",
+    "previous_title": "Сезонный профиль · средняя цена по месяцам"
+  },
+  {
+    "key": "price_week",
+    "table": "price_history",
+    "params": {
+      "viz_type": "echarts_timeseries_line",
+      "adhoc_filters": [],
+      "row_limit": 10000,
+      "show_legend": true,
+      "x_axis_time_format": "%b %Y",
+      "y_axis_format": ".1f",
+      "truncateYAxis": true,
+      "zoomable": false,
+      "x_axis": "observation_date",
+      "metrics": [
+        {
+          "expressionType": "SIMPLE",
+          "column": {
+            "column_name": "price_change_week_pct"
+          },
+          "aggregate": "AVG",
+          "sqlExpression": null,
+          "label": "Изменение, %",
+          "hasCustomLabel": true,
+          "optionName": "metric_price_change_week_pct_AVG"
+        }
+      ],
+      "groupby": [
+        "city"
+      ],
+      "description": "",
+      "legendType": "plain"
+    },
+    "title": "Изменение цены за неделю, %",
+    "previous_title": "Изменение опубликованной цены между выпусками · %"
+  },
+  {
+    "key": "basket_rank",
+    "table": "basket_latest",
+    "params": {
+      "viz_type": "echarts_timeseries_bar",
+      "adhoc_filters": [
+        {
+          "expressionType": "SIMPLE",
+          "subject": "city",
+          "operator": "!=",
+          "comparator": "Казахстан",
+          "clause": "WHERE",
+          "sqlExpression": null,
+          "filterOptionName": "filter_city_Казахстан"
+        }
+      ],
+      "row_limit": 10000,
+      "show_legend": false,
+      "x_axis_time_format": "%b %Y",
+      "y_axis_format": ",.0f",
+      "truncateYAxis": false,
+      "zoomable": false,
+      "x_axis": "city",
+      "metrics": [
+        {
+          "expressionType": "SIMPLE",
+          "column": {
+            "column_name": "basket_cost"
+          },
+          "aggregate": "AVG",
+          "sqlExpression": null,
+          "label": "Корзина, ₸",
+          "hasCustomLabel": true,
+          "optionName": "metric_basket_cost_AVG"
+        }
+      ],
+      "groupby": [],
+      "orientation": "horizontal",
+      "sort_series_type": "sum",
+      "sort_series_ascending": false,
+      "x_axis_sort": "Корзина, ₸",
+      "x_axis_sort_asc": true,
+      "order_desc": true,
+      "show_value": false,
+      "description": "",
+      "legendType": "plain",
+      "xAxisLabelInterval": "0"
+    },
+    "title": "Стоимость корзины по городам, ₸",
+    "previous_title": "Сколько стоит одинаковый набор · все города"
+  },
+  {
+    "key": "basket_premium",
+    "table": "basket_latest",
+    "params": {
+      "viz_type": "echarts_timeseries_bar",
+      "adhoc_filters": [
+        {
+          "expressionType": "SIMPLE",
+          "subject": "city",
+          "operator": "!=",
+          "comparator": "Казахстан",
+          "clause": "WHERE",
+          "sqlExpression": null,
+          "filterOptionName": "filter_city_Казахстан"
+        }
+      ],
+      "row_limit": 10000,
+      "show_legend": false,
+      "x_axis_time_format": "%b %Y",
+      "y_axis_format": ".1f",
+      "truncateYAxis": false,
+      "zoomable": false,
+      "x_axis": "city",
+      "metrics": [
+        {
+          "expressionType": "SIMPLE",
+          "column": {
+            "column_name": "basket_premium_pct"
+          },
+          "aggregate": "AVG",
+          "sqlExpression": null,
+          "label": "Отклонение, %",
+          "hasCustomLabel": true,
+          "optionName": "metric_basket_premium_pct_AVG"
+        }
+      ],
+      "groupby": [],
+      "orientation": "horizontal",
+      "sort_series_type": "sum",
+      "sort_series_ascending": false,
+      "x_axis_sort": "Отклонение, %",
+      "x_axis_sort_asc": true,
+      "order_desc": true,
+      "show_value": true,
+      "description": "",
+      "legendType": "plain",
+      "xAxisLabelInterval": "0"
+    },
+    "title": "Разница со стоимостью по стране, %",
+    "previous_title": "Набор относительно страны · %"
+  },
+  {
+    "key": "basket_index",
+    "table": "basket_history",
+    "params": {
+      "viz_type": "echarts_timeseries_line",
+      "adhoc_filters": [],
+      "row_limit": 10000,
+      "show_legend": true,
+      "x_axis_time_format": "%b %Y",
+      "y_axis_format": ".1f",
+      "truncateYAxis": true,
+      "zoomable": false,
+      "x_axis": "observation_date",
+      "metrics": [
+        {
+          "expressionType": "SQL",
+          "sqlExpression": "AVG(basket_index) - 100",
+          "label": "Изменение, %",
+          "hasCustomLabel": true,
+          "optionName": "change_since_start"
+        }
+      ],
+      "groupby": [
+        "city"
+      ],
+      "description": "Изменение относительно первой полной корзины в каждом городе. Резкий скачок цен некоторых круп в начале 2026 года присутствует в источнике; стоимость набора не является официальным индексом инфляции.",
+      "legendType": "plain"
+    },
+    "title": "Изменение стоимости корзины, %",
+    "previous_title": "Изменение стоимости набора · первое полное наблюдение = 100"
+  },
+  {
+    "key": "basket_table",
+    "table": "basket_latest",
+    "params": {
+      "viz_type": "table",
+      "adhoc_filters": [],
+      "row_limit": 10000,
+      "show_legend": false,
+      "x_axis_time_format": "%b %Y",
+      "y_axis_format": ",.0f",
+      "truncateYAxis": true,
+      "zoomable": false,
+      "query_mode": "raw",
+      "all_columns": [
+        "city",
+        "basket_cost",
+        "basket_premium_pct"
+      ],
+      "order_by_cols": [
+        "[\"basket_cost\", false]"
+      ],
+      "page_length": 0,
+      "include_search": false,
+      "column_config": {
+        "basket_cost": {
+          "d3NumberFormat": ",.0f"
+        },
+        "basket_premium_pct": {
+          "d3NumberFormat": "+.1f"
+        }
+      },
+      "description": "",
+      "legendType": "plain"
+    },
+    "title": "Стоимость корзины",
+    "previous_title": "Полнота и стоимость набора"
+  },
+  {
+    "key": "coverage",
+    "table": "coverage",
+    "params": {
+      "viz_type": "echarts_timeseries_line",
+      "adhoc_filters": [
+        {
+          "expressionType": "SIMPLE",
+          "subject": "metric",
+          "operator": "==",
+          "comparator": "price",
+          "clause": "WHERE",
+          "sqlExpression": null,
+          "filterOptionName": "filter_metric_price"
+        }
+      ],
+      "row_limit": 10000,
+      "show_legend": false,
+      "x_axis_time_format": "%b %Y",
+      "y_axis_format": ".1f",
+      "truncateYAxis": true,
+      "zoomable": false,
+      "x_axis": "observation_date",
+      "metrics": [
+        {
+          "expressionType": "SIMPLE",
+          "column": {
+            "column_name": "coverage_pct"
+          },
+          "aggregate": "AVG",
+          "sqlExpression": null,
+          "label": "Заполнено, %",
+          "hasCustomLabel": true,
+          "optionName": "metric_coverage_pct_AVG"
+        }
+      ],
+      "groupby": [],
+      "y_axis_bounds": [
+        0,
+        100
+      ],
+      "description": "",
+      "legendType": "plain"
+    },
+    "title": "Полнота данных, %",
+    "previous_title": "Покрытие наблюдений цен · %"
+  }
+]

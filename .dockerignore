@@ -1,0 +1,9 @@
+.venv
+.git
+data
+outputs
+*.xls*
+*.tmp.html
+.env
+__pycache__
+

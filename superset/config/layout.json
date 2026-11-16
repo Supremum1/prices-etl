@@ -1,0 +1,45 @@
+{
+  "DASHBOARD_VERSION_KEY": "v2",
+  "ROOT_ID": {
+    "id": "ROOT_ID",
+    "type": "ROOT",
+    "children": [
+      "GRID_ID"
+    ]
+  },
+  "GRID_ID": {
+    "id": "GRID_ID",
+    "type": "GRID",
+    "children": [
+      "HERO",
+      "TABS"
+    ],
+    "parents": [
+      "ROOT_ID"
+    ]
+  },
+  "HERO": {
+    "id": "HERO",
+    "type": "MARKDOWN",
+    "children": [],
+    "parents": [
+      "ROOT_ID",
+      "GRID_ID"
+    ],
+    "meta": {
+      "width": 12,
+      "height": 10,
+      "code": "<h2>Цены на продукты</h2><p>На 11 ноября 2026. Источник: <a href=\"https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&amp;name=19060&amp;period=&amp;type=\" target=\"_blank\" rel=\"noopener noreferrer\">БНС</a>.</p>"
+    }
+  },
+  "TABS": {
+    "id": "TABS",
+    "type": "TABS",
+    "children": [],
+    "parents": [
+      "ROOT_ID",
+      "GRID_ID"
+    ],
+    "meta": {}
+  }
+}

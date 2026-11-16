@@ -1,0 +1,6 @@
+<clickhouse>
+    <max_server_memory_usage>1610612736</max_server_memory_usage>
+    <background_pool_size>16</background_pool_size>
+    <background_schedule_pool_size>4</background_schedule_pool_size>
+</clickhouse>
+

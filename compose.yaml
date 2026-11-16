@@ -1,0 +1,56 @@
+name: prices-etl
+services:
+  clickhouse:
+    image: clickhouse/clickhouse-server:26.8
+    pull_policy: never
+    ports:
+      - "127.0.0.1:18123:8123"
+    environment:
+      CLICKHOUSE_DB: prices
+      CLICKHOUSE_USER: etl
+      CLICKHOUSE_PASSWORD: ${CLICKHOUSE_PASSWORD}
+      CLICKHOUSE_DEFAULT_ACCESS_MANAGEMENT: "1"
+    volumes:
+      - clickhouse_data:/var/lib/clickhouse
+      - ./docker/clickhouse-resources.xml:/etc/clickhouse-server/config.d/resources.xml:ro
+    mem_limit: 2g
+    ulimits:
+      nofile: {soft: 262144, hard: 262144}
+    healthcheck:
+      test: ["CMD", "wget", "--spider", "-q", "http://localhost:8123/ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 30
+    restart: unless-stopped
+  superset:
+    build:
+      context: .
+      dockerfile: Dockerfile.superset
+    image: prices-etl-superset:6.0.0-lean
+    ports:
+      - "127.0.0.1:18088:8088"
+    environment:
+      SUPERSET_CONFIG_PATH: /app/pythonpath/superset_config.py
+      SUPERSET_SECRET_KEY: ${SUPERSET_SECRET_KEY}
+      SUPERSET_ADMIN_PASSWORD: ${SUPERSET_ADMIN_PASSWORD}
+      CLICKHOUSE_PASSWORD: ${CLICKHOUSE_PASSWORD}
+      DASHBOARD_PASSWORD: ${DASHBOARD_PASSWORD}
+      FLASK_APP: superset
+    volumes:
+      - superset_home:/app/superset_home
+      - ./docker/superset_config.py:/app/pythonpath/superset_config.py:ro
+      - ./superset:/app/project:ro
+    command: ["/bin/sh", "-c", "gunicorn --bind 0.0.0.0:8088 --workers 1 --threads 4 --timeout 120 'superset.app:create_app()'"]
+    mem_limit: 2g
+    depends_on:
+      clickhouse: {condition: service_healthy}
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8088/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 30
+    restart: unless-stopped
+volumes:
+  clickhouse_data:
+  superset_home:
+

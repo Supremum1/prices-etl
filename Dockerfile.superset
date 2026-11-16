@@ -1,0 +1,6 @@
+# 6.0.0's unqualified release tag is the lean build (no browser/dev extras).
+FROM apache/superset:6.0.0@sha256:6f6c9982bd64d81797bd4f33834f2ce4a4653c8ac8322f1e5f9df9b0332d092a
+USER root
+RUN uv pip install --python /app/.venv/bin/python --no-cache 'clickhouse-connect==1.12.0'
+USER superset
+

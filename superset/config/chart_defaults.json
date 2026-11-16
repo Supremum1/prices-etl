@@ -1,0 +1,16 @@
+{
+  "time_range": "No filter",
+  "granularity_sqla": "observation_date",
+  "time_grain_sqla": "P1D",
+  "color_scheme": "food_observatory",
+  "legendType": "scroll",
+  "legendOrientation": "bottom",
+  "legendMargin": 12,
+  "rich_tooltip": true,
+  "tooltipTimeFormat": "%d.%m.%Y",
+  "showTooltipTotal": false,
+  "x_axis_title": "",
+  "y_axis_title": "",
+  "markerEnabled": false,
+  "opacity": 0.15
+}

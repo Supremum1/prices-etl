@@ -1,0 +1,2022 @@
+[
+  {
+    "element_id": "8151",
+    "observation_date": "2023-01-04",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (04.01.2023г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/8151/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-01-04_8151.xls",
+    "bytes": 75264,
+    "sha256": "06da65311edf6203cfdb1824edbcac7d1d4b5f7a2b2262fd8292374548789021"
+  },
+  {
+    "element_id": "8475",
+    "observation_date": "2023-01-10",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (10.01.2023г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/8475/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-01-10_8475.xls",
+    "bytes": 132608,
+    "sha256": "c7c0bd3994d7e8b1347b8e14c7a9ce8f0fb473d47c23bdab27534e5d6095094d"
+  },
+  {
+    "element_id": "8690",
+    "observation_date": "2023-01-17",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (17.01.2023г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/8690/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-01-17_8690.xls",
+    "bytes": 120832,
+    "sha256": "331dcd8ee69a2efb08a84d9c0b143845c97a51514ca649d7f38b30dae0bb5a8b"
+  },
+  {
+    "element_id": "8826",
+    "observation_date": "2023-01-24",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (24.01.2023г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/8826/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-01-24_8826.xls",
+    "bytes": 163328,
+    "sha256": "1c22b8c3646eec6ea9c23b3fe6cdaf16ac8f86f0af49381003b2d268531732c1"
+  },
+  {
+    "element_id": "9573",
+    "observation_date": "2023-01-31",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (31.01.2023г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/9573/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-01-31_9573.xls",
+    "bytes": 130048,
+    "sha256": "fd1b1968a5c62a8b646c9b9da6877b8246486357f085e46a6f890c6f2486456b"
+  },
+  {
+    "element_id": "10230",
+    "observation_date": "2023-02-07",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (07.02.2023г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/10230/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-02-07_10230.xls",
+    "bytes": 130048,
+    "sha256": "c607f01d31f63f61eba2d7b022cda04ad57eac016743a567b75d1e2fb2dca1bd"
+  },
+  {
+    "element_id": "10631",
+    "observation_date": "2023-02-14",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (14.02.2023г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/10631/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-02-14_10631.xls",
+    "bytes": 130560,
+    "sha256": "0ec05548bea92539acd24d3b1f967cc37a5e2d94516497cb91e015d0afe438ce"
+  },
+  {
+    "element_id": "13339",
+    "observation_date": "2023-02-21",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (21.02.2023г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/13339/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-02-21_13339.xls",
+    "bytes": 130560,
+    "sha256": "631b353bb81fc344d6b19524fbfff340fc0d392c7c5d0cefea9f24f969c4a11d"
+  },
+  {
+    "element_id": "14240",
+    "observation_date": "2023-02-28",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (28.02.2023г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/14240/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-02-28_14240.xls",
+    "bytes": 130560,
+    "sha256": "489d0929722021fb8e47449d308c6053104dd7b9a0206b3cdd4876992f6c7a16"
+  },
+  {
+    "element_id": "14521",
+    "observation_date": "2023-03-07",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (07.03.2023г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/14521/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-03-07_14521.xls",
+    "bytes": 130560,
+    "sha256": "b4c418d9df176814b8836c5f2a505386d6a999f604bd6532f957be7ffe497711"
+  },
+  {
+    "element_id": "15569",
+    "observation_date": "2023-03-14",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (14.03.2023г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/15569/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-03-14_15569.xls",
+    "bytes": 130048,
+    "sha256": "a678c6be3e59bf4e10686145114f8dcf8376e7bbbc5a00504d3d29fc98b41b12"
+  },
+  {
+    "element_id": "17368",
+    "observation_date": "2023-03-20",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (20.03.2023г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/17368/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-03-20_17368.xls",
+    "bytes": 130560,
+    "sha256": "f9736c95b05fe70de35ea4fadbb22e4c0a7057ea1549419a7d43cbacfb924d2e"
+  },
+  {
+    "element_id": "20575",
+    "observation_date": "2023-03-28",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (28.03.2023)",
+    "url": "https://stat.gov.kz/api/iblock/element/20575/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-03-28_20575.xls",
+    "bytes": 132608,
+    "sha256": "01685fab92467ed7c4dcc302dcc0966112dd3b85c2a6e5ec144eb3ea36a886e4"
+  },
+  {
+    "element_id": "22851",
+    "observation_date": "2023-04-04",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (04.04.2023г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/22851/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-04-04_22851.xls",
+    "bytes": 130560,
+    "sha256": "ef2071b54e1d3e7a50a93e7fdb4f1c85dcec874f762942fe916fdb798b2d7a2c"
+  },
+  {
+    "element_id": "25850",
+    "observation_date": "2023-04-11",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (11.04.2023г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/25850/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-04-11_25850.xls",
+    "bytes": 118272,
+    "sha256": "45c4bc1d07f56a088c012fc8be0c0fad53f96af14cfcffc8e64826a195a80fbd"
+  },
+  {
+    "element_id": "37199",
+    "observation_date": "2023-04-18",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (18.04.2023г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/37199/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-04-18_37199.xls",
+    "bytes": 128000,
+    "sha256": "95f1abbf047e3d22379d470ada6b2c4a0089c714303b6ade6440e8aadac176e9"
+  },
+  {
+    "element_id": "37885",
+    "observation_date": "2023-04-25",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (25.04.2023г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/37885/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-04-25_37885.xls",
+    "bytes": 128000,
+    "sha256": "80293db6074be980c6125648a34b6ad49654542584a483aaed5812f8feca0156"
+  },
+  {
+    "element_id": "38255",
+    "observation_date": "2023-05-02",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (02.05.2023г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/38255/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-05-02_38255.xls",
+    "bytes": 118784,
+    "sha256": "ba401b64745510c3114d5c2b8b31faa13055e1dda2ea391178084802d4785bf8"
+  },
+  {
+    "element_id": "39210",
+    "observation_date": "2023-05-10",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (10.05.2023)",
+    "url": "https://stat.gov.kz/api/iblock/element/39210/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-05-10_39210.xls",
+    "bytes": 118272,
+    "sha256": "0c7d7a1b7824f628630378df0d27fc7b54281efed82c55ee80d28decbaf36497"
+  },
+  {
+    "element_id": "41932",
+    "observation_date": "2023-05-16",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (16.05.2023)",
+    "url": "https://stat.gov.kz/api/iblock/element/41932/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-05-16_41932.xls",
+    "bytes": 118272,
+    "sha256": "21513f367ba3265e69e309adb9dc713fda7e3b2e1ae317dff0e530edfb9922b5"
+  },
+  {
+    "element_id": "49990",
+    "observation_date": "2023-05-23",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (23.05.2023)",
+    "url": "https://stat.gov.kz/api/iblock/element/49990/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-05-23_49990.xls",
+    "bytes": 118272,
+    "sha256": "522f3fb1bb99538e2c1770ac895eda4278a3f667a7636a41e38e02fae8db2761"
+  },
+  {
+    "element_id": "53411",
+    "observation_date": "2023-05-30",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (30.05.2023)",
+    "url": "https://stat.gov.kz/api/iblock/element/53411/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-05-30_53411.xls",
+    "bytes": 118272,
+    "sha256": "3c86b38aaa2fc1c0b7a33a0acf91c103167dca0128eab4871dfe2765cf26f007"
+  },
+  {
+    "element_id": "56927",
+    "observation_date": "2023-06-06",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (06.06.2023г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/56927/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-06-06_56927.xls",
+    "bytes": 118784,
+    "sha256": "926942cee0eea368b72c68fdee6c380af7fa0855e1d0b2275d784dda598503ec"
+  },
+  {
+    "element_id": "60396",
+    "observation_date": "2023-06-13",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (13.06.2023)",
+    "url": "https://stat.gov.kz/api/iblock/element/60396/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-06-13_60396.xls",
+    "bytes": 119296,
+    "sha256": "425f54667fba529b381efd080582b7a73c531cde9f8dcf844b89d7be06e356ea"
+  },
+  {
+    "element_id": "64353",
+    "observation_date": "2023-06-20",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (20.06.2023)",
+    "url": "https://stat.gov.kz/api/iblock/element/64353/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-06-20_64353.xls",
+    "bytes": 123904,
+    "sha256": "b1d9e901dda57a8c7c25d6f5275d6f097ccb1680508326456f5f33fca1aa9cfa"
+  },
+  {
+    "element_id": "67190",
+    "observation_date": "2023-06-29",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (29.06.2023)",
+    "url": "https://stat.gov.kz/api/iblock/element/67190/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-06-29_67190.xls",
+    "bytes": 118272,
+    "sha256": "834a2c7f239897281ca5b23a537fb790b396b0e2d506d495ffe7c58db9b8f863"
+  },
+  {
+    "element_id": "68802",
+    "observation_date": "2023-07-05",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (05.07.2023)",
+    "url": "https://stat.gov.kz/api/iblock/element/68802/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-07-05_68802.xls",
+    "bytes": 131584,
+    "sha256": "8dabea209913e00fb64ef770777fc363533651e972d60bd792b4e949cb701ffe"
+  },
+  {
+    "element_id": "69862",
+    "observation_date": "2023-07-13",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (13.07.2023)",
+    "url": "https://stat.gov.kz/api/iblock/element/69862/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-07-13_69862.xls",
+    "bytes": 118784,
+    "sha256": "6eb2867f244f4929ae133551ed960c1b134b1dec3b499608a006811f3042cd6b"
+  },
+  {
+    "element_id": "71486",
+    "observation_date": "2023-07-20",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (20.07.2023)",
+    "url": "https://stat.gov.kz/api/iblock/element/71486/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-07-20_71486.xls",
+    "bytes": 118784,
+    "sha256": "1835fdfce845b4fce018592dec0badd3b9f3171d2c5ac7e2a892976a860d0bc1"
+  },
+  {
+    "element_id": "74113",
+    "observation_date": "2023-07-27",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (27.07.2023)",
+    "url": "https://stat.gov.kz/api/iblock/element/74113/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-07-27_74113.xls",
+    "bytes": 125440,
+    "sha256": "0d47a959f15426b7e4ccd278e5c94e2ee4762809e551980de80155dd55bf6387"
+  },
+  {
+    "element_id": "76476",
+    "observation_date": "2023-08-03",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (03.08.2023)",
+    "url": "https://stat.gov.kz/api/iblock/element/76476/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-08-03_76476.xls",
+    "bytes": 118272,
+    "sha256": "ee3096a563cdee22de2fe5bb886512fad9710bd6980090f2d93fe7ef4654bee0"
+  },
+  {
+    "element_id": "79139",
+    "observation_date": "2023-08-10",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (10.08.2023)",
+    "url": "https://stat.gov.kz/api/iblock/element/79139/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-08-10_79139.xls",
+    "bytes": 118272,
+    "sha256": "f1e4489ab2c6c628e95f79ddff98f13dd198c65d8e034383e3c37a4eb8ccbc98"
+  },
+  {
+    "element_id": "80342",
+    "observation_date": "2023-08-17",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (17.08.2023)",
+    "url": "https://stat.gov.kz/api/iblock/element/80342/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-08-17_80342.xls",
+    "bytes": 125952,
+    "sha256": "a5c9351192f4fe98ebbe5c3c848156b09116e469f57209fbe3d00ca9f58e57e2"
+  },
+  {
+    "element_id": "81448",
+    "observation_date": "2023-08-24",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (24.08.2023)",
+    "url": "https://stat.gov.kz/api/iblock/element/81448/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-08-24_81448.xls",
+    "bytes": 118784,
+    "sha256": "4cc8eef5a773bd9fb8b002272f261e63cf96ec2646684d980632d77501c8ff82"
+  },
+  {
+    "element_id": "82730",
+    "observation_date": "2023-08-31",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (31.08.2023)",
+    "url": "https://stat.gov.kz/api/iblock/element/82730/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-08-31_82730.xls",
+    "bytes": 118784,
+    "sha256": "fd0c6f98bff49f2e7c9d608098e4c3df4e84f01ca0076760a434311abfd048d4"
+  },
+  {
+    "element_id": "84253",
+    "observation_date": "2023-09-05",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (05.09.2023)",
+    "url": "https://stat.gov.kz/api/iblock/element/84253/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-09-05_84253.xls",
+    "bytes": 123904,
+    "sha256": "9d16d709fab6a71cd84db247625910ace13b754ac0ab931cef3bd2b95b7455dc"
+  },
+  {
+    "element_id": "85081",
+    "observation_date": "2023-09-12",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (12.09.2023)",
+    "url": "https://stat.gov.kz/api/iblock/element/85081/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-09-12_85081.xls",
+    "bytes": 118784,
+    "sha256": "e78411058315fc8166c1c9534225603379d906149dc5c45380f4ccd9395ac9ad"
+  },
+  {
+    "element_id": "87058",
+    "observation_date": "2023-09-19",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (19.09.2023)",
+    "url": "https://stat.gov.kz/api/iblock/element/87058/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-09-19_87058.xls",
+    "bytes": 118784,
+    "sha256": "bd540b3943f08d877edfc4cd22ec737294126619e96931b4f0f8a452f751c726"
+  },
+  {
+    "element_id": "89875",
+    "observation_date": "2023-09-26",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (26.09.2023)",
+    "url": "https://stat.gov.kz/api/iblock/element/89875/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-09-26_89875.xls",
+    "bytes": 118272,
+    "sha256": "f02315c817f3155f594ef6f95ca002ce338e1953f6e833774676a5581dfd4d16"
+  },
+  {
+    "element_id": "92376",
+    "observation_date": "2023-10-03",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (03.10.2023)",
+    "url": "https://stat.gov.kz/api/iblock/element/92376/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-10-03_92376.xls",
+    "bytes": 118784,
+    "sha256": "1a27f53a8fb0ab9fb10d6b8b01a389499690b5dff850921ba9f00dbdb8643118"
+  },
+  {
+    "element_id": "93901",
+    "observation_date": "2023-10-10",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (10.10.2023)",
+    "url": "https://stat.gov.kz/api/iblock/element/93901/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-10-10_93901.xls",
+    "bytes": 123904,
+    "sha256": "c865f3f15a49e5e74f72ef264d9053acc11f06f89e07b1fa15c05457a90543be"
+  },
+  {
+    "element_id": "96223",
+    "observation_date": "2023-10-17",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (17.10.2023)",
+    "url": "https://stat.gov.kz/api/iblock/element/96223/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-10-17_96223.xls",
+    "bytes": 123904,
+    "sha256": "6df87ceacb1ae0b0e1493c871d411a020bc4528385f34fee86db2ba8c0e749d4"
+  },
+  {
+    "element_id": "98464",
+    "observation_date": "2023-10-24",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (24.10.2023)",
+    "url": "https://stat.gov.kz/api/iblock/element/98464/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-10-24_98464.xls",
+    "bytes": 123904,
+    "sha256": "146d750f802aa171bc8fe1c833c0a9b11ff5d6fe0d4cfd51e337e8a6fbe286c0"
+  },
+  {
+    "element_id": "100861",
+    "observation_date": "2023-10-31",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (31.10.2023)",
+    "url": "https://stat.gov.kz/api/iblock/element/100861/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-10-31_100861.xls",
+    "bytes": 110592,
+    "sha256": "cf6ec26a49ef7233e05c7f29e3a1ae6b76b788a7a5c37620f93eac2b25df24e8"
+  },
+  {
+    "element_id": "102361",
+    "observation_date": "2023-11-07",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (07.11.2023)",
+    "url": "https://stat.gov.kz/api/iblock/element/102361/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-11-07_102361.xls",
+    "bytes": 110592,
+    "sha256": "7cab3ad322e78778360e873bef89d2244e6020dafb44fe7b96ccff96c6eb231c"
+  },
+  {
+    "element_id": "104408",
+    "observation_date": "2023-11-14",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (14.11.2023)",
+    "url": "https://stat.gov.kz/api/iblock/element/104408/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-11-14_104408.xls",
+    "bytes": 110592,
+    "sha256": "be04bcef4b658c9c3a9d71096ca1a19aa451ad150ecaf5336bdba14a6e3ac077"
+  },
+  {
+    "element_id": "105703",
+    "observation_date": "2023-11-21",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (21.11.2023)",
+    "url": "https://stat.gov.kz/api/iblock/element/105703/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-11-21_105703.xls",
+    "bytes": 110592,
+    "sha256": "7846ecdedfd82f3e963652a67fd5c99679a5b74407a448cd203bee698fbb5d43"
+  },
+  {
+    "element_id": "107271",
+    "observation_date": "2023-11-28",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (28.11.2023)",
+    "url": "https://stat.gov.kz/api/iblock/element/107271/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-11-28_107271.xls",
+    "bytes": 110592,
+    "sha256": "8517ffd86aebacb13ea726695c582edabcae6cb08495983fda4f3018bd874c18"
+  },
+  {
+    "element_id": "108489",
+    "observation_date": "2023-12-05",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (05.12.2023)",
+    "url": "https://stat.gov.kz/api/iblock/element/108489/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-12-05_108489.xls",
+    "bytes": 110592,
+    "sha256": "d30b79e70ceff89f8384aed8900f5f4d2f36562c1a1b8a6d2dfb2925ab2249df"
+  },
+  {
+    "element_id": "111496",
+    "observation_date": "2023-12-12",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (12.12.2023)",
+    "url": "https://stat.gov.kz/api/iblock/element/111496/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-12-12_111496.xls",
+    "bytes": 117248,
+    "sha256": "febf843739be44caa5c1ed623f952e513ba1a7456811d10c10c00e838697b135"
+  },
+  {
+    "element_id": "112335",
+    "observation_date": "2023-12-19",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (19.12.2023)",
+    "url": "https://stat.gov.kz/api/iblock/element/112335/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-12-19_112335.xls",
+    "bytes": 110592,
+    "sha256": "c448dd12301c7647e4654f14b6fcb87ece3e670a2e2292520bac9d58bf8ebe06"
+  },
+  {
+    "element_id": "113352",
+    "observation_date": "2023-12-26",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (26.12.2023)",
+    "url": "https://stat.gov.kz/api/iblock/element/113352/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2023/2023-12-26_113352.xls",
+    "bytes": 102912,
+    "sha256": "ba9a5632d4b09f5083986dfe08f91be98c85a719581e1826041101a968ea276e"
+  },
+  {
+    "element_id": "114082",
+    "observation_date": "2024-01-03",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (03.01.2024)",
+    "url": "https://stat.gov.kz/api/iblock/element/114082/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2023&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-01-03_114082.xls",
+    "bytes": 103424,
+    "sha256": "54a7e922080e56db797b1d3d5fa8f3d4101d0191a12345c93a94f88625dbb1de"
+  },
+  {
+    "element_id": "113755",
+    "observation_date": "2024-01-09",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 9 января 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/113755/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-01-09_113755.xls",
+    "bytes": 110592,
+    "sha256": "1c4494c3875b4cc32f8059e81d958162756811d9a990bfc747c92db6fda8039e"
+  },
+  {
+    "element_id": "113756",
+    "observation_date": "2024-01-16",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан ( на 16 января 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/113756/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-01-16_113756.xls",
+    "bytes": 110592,
+    "sha256": "9b7f5ba6d81981083c8ca2ea429f6e735bc03bb5fe9a0114f5bdf386c994b080"
+  },
+  {
+    "element_id": "113757",
+    "observation_date": "2024-01-23",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан ( на 23 января 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/113757/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-01-23_113757.xls",
+    "bytes": 110592,
+    "sha256": "29328d8652cdf2a09d4a4a17a999d823db7d053b08a15372cbf0c5317e566a67"
+  },
+  {
+    "element_id": "119767",
+    "observation_date": "2024-01-30",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 30 января 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/119767/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-01-30_119767.xls",
+    "bytes": 110080,
+    "sha256": "1953557fac23c56f363a0c571cb910f7fa5e65a25a03d124af6e9fc26eb2f765"
+  },
+  {
+    "element_id": "120910",
+    "observation_date": "2024-02-06",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 6 февраля 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/120910/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-02-06_120910.xls",
+    "bytes": 115200,
+    "sha256": "f9705f5b3815706c4b44fce3c51bf847f7ec1411e834b663580c75d81d20e3a4"
+  },
+  {
+    "element_id": "123049",
+    "observation_date": "2024-02-13",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 13 февраля 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/123049/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-02-13_123049.xls",
+    "bytes": 110592,
+    "sha256": "1ccfe2f8d3cfe7956231beea79f4520b1d4a835eaf33b30a7c01ff7eb9f956ec"
+  },
+  {
+    "element_id": "123965",
+    "observation_date": "2024-02-20",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 20 февраля 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/123965/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-02-20_123965.xls",
+    "bytes": 110592,
+    "sha256": "6da8a957144453a451253005cba0c3dce0cc0022714bf9bcc8454bf9ab2b1805"
+  },
+  {
+    "element_id": "125208",
+    "observation_date": "2024-02-27",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 27 февраля 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/125208/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-02-27_125208.xls",
+    "bytes": 110592,
+    "sha256": "4bfd023333b2185f1296315b4c0c577228e238bb592940589e2fcf895205f8ff"
+  },
+  {
+    "element_id": "117647",
+    "observation_date": "2024-03-05",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 5 марта 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/117647/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-03-05_117647.xls",
+    "bytes": 110592,
+    "sha256": "42eeb0378ee715ca44ec0180c032cc262302d85879547f885541504abddfe14e"
+  },
+  {
+    "element_id": "117648",
+    "observation_date": "2024-03-12",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 12 марта 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/117648/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-03-12_117648.xls",
+    "bytes": 110592,
+    "sha256": "5290c2dd1b8afd986178261d1b9a942cec16bcacf14c33c2dad17de6b77357b5"
+  },
+  {
+    "element_id": "117649",
+    "observation_date": "2024-03-19",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 19 марта 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/117649/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-03-19_117649.xls",
+    "bytes": 110080,
+    "sha256": "db2251da702bb98d16fee0358e5efa91ed4d2e2974054fda77ae8eedc3a4c922"
+  },
+  {
+    "element_id": "117650",
+    "observation_date": "2024-03-26",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 26 марта 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/117650/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-03-26_117650.xls",
+    "bytes": 110592,
+    "sha256": "b327a2a406d029a3b3362416fbf21172a15d2b32f4b97a02a844a8074b69525a"
+  },
+  {
+    "element_id": "157436",
+    "observation_date": "2024-04-02",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 2 апреля 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/157436/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-04-02_157436.xls",
+    "bytes": 110592,
+    "sha256": "a1f7f2adb6632c676202f4ad92e20c255c550249c53779540e592197a4d2ec6f"
+  },
+  {
+    "element_id": "165147",
+    "observation_date": "2024-04-09",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 9 апреля 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/165147/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-04-09_165147.xls",
+    "bytes": 110592,
+    "sha256": "c1cd3ce55c590aefb3a0e1fbe3a47c05b67623e28aa055c30e1f30ef463f76b6"
+  },
+  {
+    "element_id": "165148",
+    "observation_date": "2024-04-16",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 16 апреля 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/165148/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-04-16_165148.xls",
+    "bytes": 110592,
+    "sha256": "9c6f2e934b8d7a8b23a8593817b60fa4bf30b10df7b04333ec0ffaaf273b37da"
+  },
+  {
+    "element_id": "165149",
+    "observation_date": "2024-04-23",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 23 апреля 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/165149/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-04-23_165149.xls",
+    "bytes": 110592,
+    "sha256": "9f501d3626b1442b95421c788ba338dbf02eafc4f86ba592872cbe146b292541"
+  },
+  {
+    "element_id": "158486",
+    "observation_date": "2024-04-30",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 30 апреля 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/158486/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-04-30_158486.xls",
+    "bytes": 110592,
+    "sha256": "bb855a9e945883d99c5e9bb941a0ba1495efdf4537b8925604b6c9cc2ee8bde1"
+  },
+  {
+    "element_id": "158487",
+    "observation_date": "2024-05-06",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан ( на 6 мая 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/158487/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-05-06_158487.xls",
+    "bytes": 110592,
+    "sha256": "90baabeee6151d21b3a9fd665e74e90665af4975d5f633b0eed267f96d9491e0"
+  },
+  {
+    "element_id": "158488",
+    "observation_date": "2024-05-14",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 14 мая 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/158488/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-05-14_158488.xls",
+    "bytes": 110592,
+    "sha256": "9890e07784017f4f4be461ea6aef717f9d25a048263d86e033027e5138a1c305"
+  },
+  {
+    "element_id": "158489",
+    "observation_date": "2024-05-21",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 21 мая 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/158489/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-05-21_158489.xls",
+    "bytes": 110592,
+    "sha256": "c598367baaa15583f285233efe1f9bfcc3997447c9a97f4ce57be092cc97e7e6"
+  },
+  {
+    "element_id": "158490",
+    "observation_date": "2024-05-28",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 28 мая 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/158490/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-05-28_158490.xls",
+    "bytes": 110592,
+    "sha256": "2289f0ec36d4af76fd971c832d833e1d659bfc60de7151c9f6d1be7e87d7d731"
+  },
+  {
+    "element_id": "182562",
+    "observation_date": "2024-06-04",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 4 июня 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/182562/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-06-04_182562.xls",
+    "bytes": 110592,
+    "sha256": "09d16d23a8d55af945d5743a84a55281032f68380b0488db4454967f74470738"
+  },
+  {
+    "element_id": "182563",
+    "observation_date": "2024-06-11",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан ( на 11 июня 2024 г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/182563/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-06-11_182563.xls",
+    "bytes": 110592,
+    "sha256": "3202a27b88ffdac9846f88922c2d5f7a2e7e572262bd928b0d1bd41193352446"
+  },
+  {
+    "element_id": "182565",
+    "observation_date": "2024-06-18",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан ( на 18 июня 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/182565/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-06-18_182565.xls",
+    "bytes": 116224,
+    "sha256": "cbded06f77edd615ca28736b22aca6db192e174e306c0e2120f3b6db521e4af0"
+  },
+  {
+    "element_id": "182566",
+    "observation_date": "2024-06-25",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 25 июня 2024г. )",
+    "url": "https://stat.gov.kz/api/iblock/element/182566/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-06-25_182566.xls",
+    "bytes": 379904,
+    "sha256": "c8368f7bbceea84c5f0123ee454aa92631c84bf41aa9de1dd29c372ba4247aa0"
+  },
+  {
+    "element_id": "182407",
+    "observation_date": "2024-07-02",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан ( на 2 июля 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/182407/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-07-02_182407.xls",
+    "bytes": 150528,
+    "sha256": "bfcbdb7952d91e4ef0a4c113a97ae9863639b3cf74452c35da66234f690caa6b"
+  },
+  {
+    "element_id": "197188",
+    "observation_date": "2024-07-09",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 9 июля 2024 г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/197188/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-07-09_197188.xls",
+    "bytes": 110592,
+    "sha256": "5a9a9821c7c98bfe501edff388e4d50a6c8855dbdb88784cd23045a1618626e6"
+  },
+  {
+    "element_id": "197189",
+    "observation_date": "2024-07-16",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан ( на 16 июля 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/197189/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-07-16_197189.xls",
+    "bytes": 111104,
+    "sha256": "ef7f57cd317e53b8a6663183369a1baac639043192655c44bf657790f01ec544"
+  },
+  {
+    "element_id": "197190",
+    "observation_date": "2024-07-23",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 23 июля 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/197190/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-07-23_197190.xls",
+    "bytes": 111104,
+    "sha256": "607ba11cd1abe721ff2b16998bad9f6b092417342712d0a6bce05dd0e2c6bf28"
+  },
+  {
+    "element_id": "205349",
+    "observation_date": "2024-07-30",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 30 июля 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/205349/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-07-30_205349.xls",
+    "bytes": 111104,
+    "sha256": "4633afc71b957b5d388970b97a4bdae20b58e72299398b177d29847442afc6b5"
+  },
+  {
+    "element_id": "205838",
+    "observation_date": "2024-08-06",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 6 августа 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/205838/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-08-06_205838.xls",
+    "bytes": 111104,
+    "sha256": "40bb63b1166df4ac5489d1aaae3fc4f33081a17a8808f27a9a427992137e0c00"
+  },
+  {
+    "element_id": "207157",
+    "observation_date": "2024-08-13",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 13 августа 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/207157/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-08-13_207157.xls",
+    "bytes": 111104,
+    "sha256": "407a9f974cc08e7b9bb046fe2c27feab3262cae9db6595717d5b18491a1396cc"
+  },
+  {
+    "element_id": "207997",
+    "observation_date": "2024-08-20",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 20 августа 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/207997/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-08-20_207997.xls",
+    "bytes": 111104,
+    "sha256": "271f785cd153800b2074ade326dc59e4c9cdb3f22cc4b268981357312ecba067"
+  },
+  {
+    "element_id": "208694",
+    "observation_date": "2024-08-27",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 27 августа 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/208694/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-08-27_208694.xls",
+    "bytes": 111104,
+    "sha256": "a1a4dcea33bf4cf549647071334ab4ad2448cd4e74d8256b98eb380cd1ec131d"
+  },
+  {
+    "element_id": "184062",
+    "observation_date": "2024-09-03",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан ( на 3 сентября 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/184062/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-09-03_184062.xls",
+    "bytes": 116224,
+    "sha256": "e54243be8a2c4331440070536c0ff13a7640cd5881eacca007a991818aefea6c"
+  },
+  {
+    "element_id": "212340",
+    "observation_date": "2024-09-10",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 10 сентября 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/212340/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-09-10_212340.xls",
+    "bytes": 111104,
+    "sha256": "9a6d3350de336ebf9a4b9884c5f8ab16bdad6ef90efaf36390ebff79d9e455ac"
+  },
+  {
+    "element_id": "213199",
+    "observation_date": "2024-09-17",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 17 сентября 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/213199/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-09-17_213199.xls",
+    "bytes": 110592,
+    "sha256": "e643f2c925bbde7012983cc79d1660606f23f19256054e20fe0d21fb8d23a54d"
+  },
+  {
+    "element_id": "214459",
+    "observation_date": "2024-09-24",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 24 сентября 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/214459/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-09-24_214459.xls",
+    "bytes": 110592,
+    "sha256": "097ba74361e09b6a300df9e6629a2048647578321070881d6691a2dc09b4550e"
+  },
+  {
+    "element_id": "216898",
+    "observation_date": "2024-10-01",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 1 октября 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/216898/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-10-01_216898.xls",
+    "bytes": 110592,
+    "sha256": "298314a3e1aa17c3b32a5055150fed4df83fe9034343061d5ed8734d21ab2bde"
+  },
+  {
+    "element_id": "184063",
+    "observation_date": "2024-10-08",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан ( на 8 октября 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/184063/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-10-08_184063.xls",
+    "bytes": 110592,
+    "sha256": "94cfe2830fe480d19d0f5924551bc336a0566cc9e3da763cc1836f56818884a7"
+  },
+  {
+    "element_id": "184064",
+    "observation_date": "2024-10-15",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 15 октября 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/184064/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-10-15_184064.xls",
+    "bytes": 111104,
+    "sha256": "806c2ae097204556a6eabb30927bf3ea83559ee50135fa06f7c92c970c201ed5"
+  },
+  {
+    "element_id": "184065",
+    "observation_date": "2024-10-22",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 22 октября 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/184065/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-10-22_184065.xls",
+    "bytes": 110592,
+    "sha256": "0d2eb28e464d8aa7eba049558e9f73ad2f373846e40e15db1a8b96e22e0fd1f0"
+  },
+  {
+    "element_id": "184066",
+    "observation_date": "2024-10-29",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 29 октября 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/184066/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-10-29_184066.xls",
+    "bytes": 110592,
+    "sha256": "b2e573cbd8e1c3fd74cbf794227fb5de5bea2468b6ad5c4e2e768e77dfdbe33a"
+  },
+  {
+    "element_id": "184882",
+    "observation_date": "2024-11-05",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (   на 5 ноября 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/184882/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-11-05_184882.xls",
+    "bytes": 110592,
+    "sha256": "a9bac53b0bc0eab48cc7b9aaa7c90d23705e8ac362211b73bb34f189298811d8"
+  },
+  {
+    "element_id": "239148",
+    "observation_date": "2024-11-12",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 12 ноября 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/239148/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-11-12_239148.xls",
+    "bytes": 110592,
+    "sha256": "de4009d4903d609b003191c1cc3b47bd67624882f52c0fa9786985f39e8d78ac"
+  },
+  {
+    "element_id": "243510",
+    "observation_date": "2024-11-19",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 19 ноября 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/243510/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-11-19_243510.xls",
+    "bytes": 110592,
+    "sha256": "902fc683d812878f3d5d18e50e4bb97560a934ce42ba0a9f04ef5dbbad1bd9f6"
+  },
+  {
+    "element_id": "250621",
+    "observation_date": "2024-11-26",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 26 ноября 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/250621/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-11-26_250621.xls",
+    "bytes": 110592,
+    "sha256": "318397398862cbc553b123226e5648a6b4214aa8717a582befff016bb0361d34"
+  },
+  {
+    "element_id": "196838",
+    "observation_date": "2024-12-05",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 5 декабря 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/196838/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-12-05_196838.xls",
+    "bytes": 110592,
+    "sha256": "2c4c9ef4664365f2adcdb3c807acdeedff6ebfe66f9f905b39b163e9907567d7"
+  },
+  {
+    "element_id": "196839",
+    "observation_date": "2024-12-10",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан ( на 10 декабря 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/196839/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-12-10_196839.xls",
+    "bytes": 111104,
+    "sha256": "6065e0474ee565f9ba11b0c84afced24bbb1248fcfde7b97819b4b0e35613151"
+  },
+  {
+    "element_id": "196840",
+    "observation_date": "2024-12-17",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 17 декабря 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/196840/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-12-17_196840.xls",
+    "bytes": 111104,
+    "sha256": "b45a638ebb9bc34c28f163099bd61e3c121d7b643f9d62a42084fd3841e3162d"
+  },
+  {
+    "element_id": "196841",
+    "observation_date": "2024-12-24",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан ( на 24 декабря 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/196841/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-12-24_196841.xls",
+    "bytes": 103424,
+    "sha256": "80e90cc625976dde6638e9ecec9c855374f734f0c07c7acdf43ebd4d9d81d8af"
+  },
+  {
+    "element_id": "284780",
+    "observation_date": "2024-12-31",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 31 декабря 2024г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/284780/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2024&name=19060&period=&type=",
+    "path": "data/raw/2024/2024-12-31_284780.xls",
+    "bytes": 103936,
+    "sha256": "1155602c42a15fce4b2c6187f55f22d263d82a1ef8bea25c0755473c81c40cde"
+  },
+  {
+    "element_id": "280691",
+    "observation_date": "2025-01-08",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 8 января 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/280691/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-01-08_280691.xls",
+    "bytes": 104448,
+    "sha256": "b9cea3be35fa0c481bd5d98d46261f357ca7ae5d663fc0131266e00b47165409"
+  },
+  {
+    "element_id": "280692",
+    "observation_date": "2025-01-14",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (  на 14 января 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/280692/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-01-14_280692.xls",
+    "bytes": 111104,
+    "sha256": "7509bad54588caf7cb3ba607d43f788b9de0da28b40587e8c15e23e49075781f"
+  },
+  {
+    "element_id": "280693",
+    "observation_date": "2025-01-21",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 21 января 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/280693/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-01-21_280693.xls",
+    "bytes": 110592,
+    "sha256": "11defc37a697f701c95cca254785c9ba8c254a6c8247ced8aad19e361cfd96c5"
+  },
+  {
+    "element_id": "280694",
+    "observation_date": "2025-01-28",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 28 января 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/280694/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-01-28_280694.xls",
+    "bytes": 110592,
+    "sha256": "66da6878e0fa20870c1d1e93fdfe036351ba0cfef1e781af6088f8ae802f3af5"
+  },
+  {
+    "element_id": "281095",
+    "observation_date": "2025-02-04",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 04 февраля 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/281095/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-02-04_281095.xls",
+    "bytes": 110592,
+    "sha256": "305aab1f7cafa39581fef8eb5da57da3d286008fcf6bf850c59fd8b7c5639316"
+  },
+  {
+    "element_id": "281096",
+    "observation_date": "2025-02-11",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 11 февраля 2025 г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/281096/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-02-11_281096.xls",
+    "bytes": 110592,
+    "sha256": "ead4559b48e412a75ff6e512bf1e0f309508fc773550504b7de8b2c34b204eb5"
+  },
+  {
+    "element_id": "281097",
+    "observation_date": "2025-02-18",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 18 февраля 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/281097/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-02-18_281097.xls",
+    "bytes": 110592,
+    "sha256": "be68249aed2849c8ae5b1370b8deece1d9a7237b4ddb029263107bf61c5ba6fc"
+  },
+  {
+    "element_id": "281098",
+    "observation_date": "2025-02-25",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 25 февраля 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/281098/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-02-25_281098.xls",
+    "bytes": 110592,
+    "sha256": "59a679c9a4edf1bdc3935311c5764a2867cac02df29c72b9ede22e5eb271a794"
+  },
+  {
+    "element_id": "281464",
+    "observation_date": "2025-03-04",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 4 марта 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/281464/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-03-04_281464.xls",
+    "bytes": 110592,
+    "sha256": "fbb9f12cc028571c69416a67c6ad85ed8388229f884f444affb5d4abe69879bc"
+  },
+  {
+    "element_id": "281466",
+    "observation_date": "2025-03-11",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 11 марта 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/281466/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-03-11_281466.xls",
+    "bytes": 110592,
+    "sha256": "cdac50de25b9caf283311a5b6f9ff0d344e0bed55ec3a7db9ca4806a5fb89dfa"
+  },
+  {
+    "element_id": "281467",
+    "observation_date": "2025-03-18",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 18 марта 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/281467/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-03-18_281467.xls",
+    "bytes": 110592,
+    "sha256": "19e6b357e703c7dc1bed2c239cfbff5d148fed7d4ae8d5b80add67dceac887bb"
+  },
+  {
+    "element_id": "281468",
+    "observation_date": "2025-03-26",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 26 марта 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/281468/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-03-26_281468.xls",
+    "bytes": 110592,
+    "sha256": "41a9cf55a43990f67ebb8a9c20434ceccd4180d5a4d5487355876b18b804b4b2"
+  },
+  {
+    "element_id": "341267",
+    "observation_date": "2025-04-01",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 1 апреля 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/341267/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-04-01_341267.xls",
+    "bytes": 110592,
+    "sha256": "2e4adca65b20a9e4f221c0bfa44c174eaf50cf2cd40a454c4b7ff30d5ae8c4f4"
+  },
+  {
+    "element_id": "341268",
+    "observation_date": "2025-04-08",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 8 апреля 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/341268/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-04-08_341268.xls",
+    "bytes": 110592,
+    "sha256": "8bebb0c09dcc40e8f49235e363d62f13141df6449350b283598a232a3d206b4a"
+  },
+  {
+    "element_id": "341269",
+    "observation_date": "2025-04-15",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 15 апреля 2025г.  )",
+    "url": "https://stat.gov.kz/api/iblock/element/341269/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-04-15_341269.xls",
+    "bytes": 110592,
+    "sha256": "0eea1d3e035f941ae22a4a1d3e16eaadb26863ef8e595ef9a4dc952a34bb9f8e"
+  },
+  {
+    "element_id": "341270",
+    "observation_date": "2025-04-22",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 22 апреля 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/341270/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-04-22_341270.xls",
+    "bytes": 110592,
+    "sha256": "388e9474a85c118e10e6b593848e3f00de4391e6242efcfeb30e5c73e07bee9c"
+  },
+  {
+    "element_id": "369363",
+    "observation_date": "2025-04-29",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 29 апреля 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/369363/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-04-29_369363.xls",
+    "bytes": 110592,
+    "sha256": "65848ff8cc79187c5575defe5ebe4e129e3bb68253988a2726cc8630dd179320"
+  },
+  {
+    "element_id": "346517",
+    "observation_date": "2025-05-06",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан ( на 6 мая 2025г. )",
+    "url": "https://stat.gov.kz/api/iblock/element/346517/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-05-06_346517.xls",
+    "bytes": 110592,
+    "sha256": "753db27d584838bfa7e5891dc448b8baf6d16410dccdfc580cf1223a5b99081b"
+  },
+  {
+    "element_id": "346518",
+    "observation_date": "2025-05-13",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 13 мая 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/346518/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-05-13_346518.xls",
+    "bytes": 111104,
+    "sha256": "bb0a4748865eaea61d368759588493b9c49f24dd0e5d6dc54f1311d2e21961f7"
+  },
+  {
+    "element_id": "346519",
+    "observation_date": "2025-05-20",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 20 мая 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/346519/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-05-20_346519.xls",
+    "bytes": 111104,
+    "sha256": "478dff688db8d9f2a0b6b533ee54d82c761d8d567a5087dbbe7601d172066381"
+  },
+  {
+    "element_id": "346520",
+    "observation_date": "2025-05-27",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 27 мая 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/346520/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-05-27_346520.xls",
+    "bytes": 111104,
+    "sha256": "685df4ec56887c9120cc1a04e3df850c043e81670738a13338f5cc8dcc72c640"
+  },
+  {
+    "element_id": "346906",
+    "observation_date": "2025-06-03",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (  на 3 июня 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/346906/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-06-03_346906.xls",
+    "bytes": 111104,
+    "sha256": "a12bc915520795f4025d84b2c66098180bcbd0208ac1d2af1a5ef497f7428147"
+  },
+  {
+    "element_id": "346907",
+    "observation_date": "2025-06-10",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 10 июня 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/346907/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-06-10_346907.xls",
+    "bytes": 111104,
+    "sha256": "c5d0f55115caa4135eae3773439befd546655db76c14b2ef3f308f0542bc3b75"
+  },
+  {
+    "element_id": "346908",
+    "observation_date": "2025-06-17",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 17 июня 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/346908/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-06-17_346908.xls",
+    "bytes": 111104,
+    "sha256": "67238ec886ad3de4cf1e780aa66e6ceda05ad39d0a6258e6ebabfb250400a42e"
+  },
+  {
+    "element_id": "346909",
+    "observation_date": "2025-06-24",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 24 июня 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/346909/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-06-24_346909.xls",
+    "bytes": 111104,
+    "sha256": "993380d8aa5a3f1bcf94ccb8f93f62563421d14917866c404e6a9bf60b44deff"
+  },
+  {
+    "element_id": "347721",
+    "observation_date": "2025-07-01",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (  на 1 июля 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/347721/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-07-01_347721.xls",
+    "bytes": 111104,
+    "sha256": "7c2b2ed8db54b96cc5501ad2a8b23b7862049489f74542fabf6be0704b10f573"
+  },
+  {
+    "element_id": "347722",
+    "observation_date": "2025-07-08",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 8 июля 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/347722/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-07-08_347722.xls",
+    "bytes": 110592,
+    "sha256": "ec4e1303d188210f11cca6b584f4e69f929fcbc9dcbd937414c212d08ff17013"
+  },
+  {
+    "element_id": "347723",
+    "observation_date": "2025-07-15",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 15 июля 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/347723/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-07-15_347723.xls",
+    "bytes": 111104,
+    "sha256": "0bf774c5ee551a76e400f449261eb5e52e6093e40ae84b8f7d717ba0cd3b5b2a"
+  },
+  {
+    "element_id": "347724",
+    "observation_date": "2025-07-22",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 22 июля 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/347724/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-07-22_347724.xls",
+    "bytes": 111104,
+    "sha256": "ad068c74f132e363e058dcdb903ba4ddf5598763bf920009f7130f41842971ab"
+  },
+  {
+    "element_id": "347725",
+    "observation_date": "2025-07-29",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 29 июля 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/347725/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-07-29_347725.xls",
+    "bytes": 158208,
+    "sha256": "1e2c559513c27da6f26aa518fa2db5af4269a015dd46b09b12a79eaf9fb99741"
+  },
+  {
+    "element_id": "335775",
+    "observation_date": "2025-08-05",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан ( на 5 августа 2025г. )",
+    "url": "https://stat.gov.kz/api/iblock/element/335775/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-08-05_335775.xls",
+    "bytes": 124928,
+    "sha256": "6c0f4d25495898d233c683ee4a31ac5139cb036cc22d63b61e70caa9a794a735"
+  },
+  {
+    "element_id": "335776",
+    "observation_date": "2025-08-12",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (  на 12 августа 2025 года)",
+    "url": "https://stat.gov.kz/api/iblock/element/335776/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-08-12_335776.xls",
+    "bytes": 124416,
+    "sha256": "3081a1aee5e3fc07d327b0991eb1a89d5671f60f3d83697e2fc0344376bedd6d"
+  },
+  {
+    "element_id": "335777",
+    "observation_date": "2025-08-19",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 19 августа 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/335777/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-08-19_335777.xls",
+    "bytes": 124928,
+    "sha256": "492d53850dddd4d94e6426f855dfa8be2858b9caa26d3849d8e4b16c057612f6"
+  },
+  {
+    "element_id": "335778",
+    "observation_date": "2025-08-26",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 26 августа 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/335778/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-08-26_335778.xls",
+    "bytes": 124416,
+    "sha256": "b0ac95975df8c95802e551a02af7ac18cb75730e0f6cc097ccaa742d94219f36"
+  },
+  {
+    "element_id": "435891",
+    "observation_date": "2025-09-02",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 2 сентября 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/435891/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-09-02_435891.xls",
+    "bytes": 124416,
+    "sha256": "a3a757135298db7579ef6705e117e521855a4be5299770a75c5bacf5a7ff5a68"
+  },
+  {
+    "element_id": "435913",
+    "observation_date": "2025-09-09",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 9 сентября 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/435913/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-09-09_435913.xls",
+    "bytes": 124416,
+    "sha256": "19262911e53680915b016a1eb43d925369609f88fe3db4fed0a5737d743cce0a"
+  },
+  {
+    "element_id": "435914",
+    "observation_date": "2025-09-16",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 16 сентября 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/435914/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-09-16_435914.xls",
+    "bytes": 124416,
+    "sha256": "9903bef24d5ef1b2fdc6339e798d3e88a5cd0d8199523f0f348ace0afa907e5c"
+  },
+  {
+    "element_id": "435915",
+    "observation_date": "2025-09-23",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 23 сентября 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/435915/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-09-23_435915.xls",
+    "bytes": 124416,
+    "sha256": "17c68d5d111bcf94c570e58c53adb4263e5a2e16511182217a6f467947e55e15"
+  },
+  {
+    "element_id": "353633",
+    "observation_date": "2025-09-30",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 30 сентября 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/353633/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-09-30_353633.xls",
+    "bytes": 124416,
+    "sha256": "c877113d6e2336a37325c131d2ea9be7011097712d57dd402f8b13cf088fa250"
+  },
+  {
+    "element_id": "353634",
+    "observation_date": "2025-10-07",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 7 октября 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/353634/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-10-07_353634.xls",
+    "bytes": 124416,
+    "sha256": "89b86cdb9fce6341735522913052f4418f5ffe3884caef5c2488498f34c2cc42"
+  },
+  {
+    "element_id": "353635",
+    "observation_date": "2025-10-14",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 14 октября 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/353635/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-10-14_353635.xls",
+    "bytes": 124416,
+    "sha256": "407ba2cf5995408ba603e3f79803a1b89eb82ffcd97453fcc03401496f1673e0"
+  },
+  {
+    "element_id": "353636",
+    "observation_date": "2025-10-21",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 21 октября 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/353636/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-10-21_353636.xls",
+    "bytes": 124416,
+    "sha256": "bcd93d867193189c2f9dc2cbedebc5284dc6aa95dc9a8bc7a0a2f6cbe84a253d"
+  },
+  {
+    "element_id": "353637",
+    "observation_date": "2025-10-28",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 28 октября 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/353637/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-10-28_353637.xls",
+    "bytes": 124416,
+    "sha256": "1324b32109799a6b9d37ddb241acb1cf238a14be8e21df0a282310166df770a3"
+  },
+  {
+    "element_id": "355091",
+    "observation_date": "2025-11-04",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 4 ноября 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/355091/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-11-04_355091.xls",
+    "bytes": 124416,
+    "sha256": "81dd552d734af6a5411f0ab8bfdc77de243dd069163df54c12090b0f09ab4e29"
+  },
+  {
+    "element_id": "355092",
+    "observation_date": "2025-11-11",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 11 ноября 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/355092/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-11-11_355092.xls",
+    "bytes": 124416,
+    "sha256": "aa6dcbd444b549840aa847f0acacc627f4d8c09da88aaa07ce33eb2addb771a1"
+  },
+  {
+    "element_id": "355093",
+    "observation_date": "2025-11-18",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 18 ноября 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/355093/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-11-18_355093.xls",
+    "bytes": 123904,
+    "sha256": "5afbe4411a6388dce14c0b54bc1140b1afc8e3d8397e77c96e0aba0d05961752"
+  },
+  {
+    "element_id": "355094",
+    "observation_date": "2025-11-25",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 25 ноября 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/355094/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-11-25_355094.xls",
+    "bytes": 123904,
+    "sha256": "0f064e4227d84681375556f1c9c14a239862be47a022d79f74d06ce3597dcf17"
+  },
+  {
+    "element_id": "358662",
+    "observation_date": "2025-12-02",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 2 декабря 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/358662/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-12-02_358662.xls",
+    "bytes": 129536,
+    "sha256": "eb31ed3e8396e682e781c5b732ed53f08719d0b30efb0363067ddfd6259e23fe"
+  },
+  {
+    "element_id": "358663",
+    "observation_date": "2025-12-11",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 11 декабря 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/358663/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-12-11_358663.xls",
+    "bytes": 130048,
+    "sha256": "649008dca765e33849c7845b783bf114f4ce2a4a096ffa864fe3ed1f047d7833"
+  },
+  {
+    "element_id": "358664",
+    "observation_date": "2025-12-17",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 17 декабря 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/358664/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-12-17_358664.xls",
+    "bytes": 135168,
+    "sha256": "9dd1f933c2249a51b2fbced59fb0764a56f88de58e6ebcb4fc4beae5b0a620f8"
+  },
+  {
+    "element_id": "358665",
+    "observation_date": "2025-12-23",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (  на 23 декабря 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/358665/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-12-23_358665.xls",
+    "bytes": 123904,
+    "sha256": "847267a01459e3f97889854c9b92952508ab803668547292ddf7ded4e54373f4"
+  },
+  {
+    "element_id": "471242",
+    "observation_date": "2025-12-30",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 30 декабря 2025г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/471242/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2025&name=19060&period=&type=",
+    "path": "data/raw/2025/2025-12-30_471242.xls",
+    "bytes": 116224,
+    "sha256": "ea57ce6473fe71fa456ae09e6755081494d64dc262bcb29cb9c8f0c5df51bd67"
+  },
+  {
+    "element_id": "280698",
+    "observation_date": "2026-01-08",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (по состоянию на 8 января 2026 года)",
+    "url": "https://stat.gov.kz/api/iblock/element/280698/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-01-08_280698.xls",
+    "bytes": 147456,
+    "sha256": "cb8791190f99dec0b32f5006ac65fc45a24fd6dd201b32044c37a7d2f5e668d5"
+  },
+  {
+    "element_id": "280699",
+    "observation_date": "2026-01-14",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан ( на 14 января 2026г. )",
+    "url": "https://stat.gov.kz/api/iblock/element/280699/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-01-14_280699.xls",
+    "bytes": 152576,
+    "sha256": "edcc2b7df5faab2738d42ba6b6f8012b56d843a5fb12c7d6f071c0d1560ad9f0"
+  },
+  {
+    "element_id": "280700",
+    "observation_date": "2026-01-21",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (  на 21 января 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/280700/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-01-21_280700.xls",
+    "bytes": 158208,
+    "sha256": "fb06f806b65dc7544a911588000ece153d39fbe2ae5a2d57e806f03206c336d3"
+  },
+  {
+    "element_id": "280701",
+    "observation_date": "2026-01-28",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 28 января 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/280701/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-01-28_280701.xls",
+    "bytes": 158208,
+    "sha256": "18ac40aa9ca60336a86af68a43f1028af8baff3432686e5f20f4b50f04fbd281"
+  },
+  {
+    "element_id": "281099",
+    "observation_date": "2026-02-04",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (  на 4 февраля 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/281099/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-02-04_281099.xls",
+    "bytes": 158208,
+    "sha256": "efc83242e9a9c6d7b4ec60adb4a6b53e38b160707e55f9a800e57b551164d6f2"
+  },
+  {
+    "element_id": "281100",
+    "observation_date": "2026-02-11",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 11 февраля 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/281100/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-02-11_281100.xls",
+    "bytes": 158208,
+    "sha256": "e6193bfb1446cb20b16bf3160b80ca3e65fff25cfc764a121c46e24ed8f9e1cd"
+  },
+  {
+    "element_id": "281101",
+    "observation_date": "2026-02-18",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 18 февраля 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/281101/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-02-18_281101.xls",
+    "bytes": 158208,
+    "sha256": "16a90c6418cfc85dea2f7d71af54b488e1ba6752a17c0972fa75b1ef27c7fc24"
+  },
+  {
+    "element_id": "281102",
+    "observation_date": "2026-02-25",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 25 февраля 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/281102/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-02-25_281102.xls",
+    "bytes": 158208,
+    "sha256": "d58f1d1dd711fd29926ec750abd995de616e14f2a2ed57eb9750759bc57de01f"
+  },
+  {
+    "element_id": "281469",
+    "observation_date": "2026-03-04",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (  на 4 марта 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/281469/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-03-04_281469.xls",
+    "bytes": 157696,
+    "sha256": "c2d776f35cfb9e56b4b4c54ebc2b6bd3d698c95f56f611dd4efa04def8dd9050"
+  },
+  {
+    "element_id": "281470",
+    "observation_date": "2026-03-11",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 11 марта 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/281470/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-03-11_281470.xls",
+    "bytes": 158208,
+    "sha256": "8f488a7ad05f6c3044f67fb7f0bb067e89d0773c4a190ed1592b3330a7e11d2e"
+  },
+  {
+    "element_id": "281471",
+    "observation_date": "2026-03-18",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 18 марта 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/281471/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-03-18_281471.xls",
+    "bytes": 161792,
+    "sha256": "acd6d2f5c5f02ed6f15ef2b5dedcd6c5ac65fddd3e25999f73c0dce339820fe9"
+  },
+  {
+    "element_id": "281472",
+    "observation_date": "2026-03-26",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 26 марта 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/281472/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-03-26_281472.xls",
+    "bytes": 340480,
+    "sha256": "a1d4b3fb22f4a5979b02e82c5cc941959c6520edb34b888539fffbc2e80f902c"
+  },
+  {
+    "element_id": "341272",
+    "observation_date": "2026-04-01",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 1 апреля 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/341272/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-04-01_341272.xls",
+    "bytes": 424448,
+    "sha256": "8236307c3cff1fc21d98de6a3b9bd55a53a811276877e8b1969d4ccb25e7dcde"
+  },
+  {
+    "element_id": "341273",
+    "observation_date": "2026-04-08",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 8 апреля 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/341273/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-04-08_341273.xls",
+    "bytes": 424960,
+    "sha256": "d80b539a4aa2aedd83d3aedf527dfe271a2b94caf04972a3fe69cf5398acdae2"
+  },
+  {
+    "element_id": "341274",
+    "observation_date": "2026-04-15",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 15 апреля 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/341274/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-04-15_341274.xls",
+    "bytes": 426496,
+    "sha256": "c4e4f1aa61b73746ad35a0c6de87706fc5fd20c29e1ce70561cd95778613d8b5"
+  },
+  {
+    "element_id": "341275",
+    "observation_date": "2026-04-22",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 22 апреля 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/341275/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-04-22_341275.xls",
+    "bytes": 426496,
+    "sha256": "8d5eb3cfafd84176333e4c79dedd2798b90638653cf3926010299261ed2029bf"
+  },
+  {
+    "element_id": "483123",
+    "observation_date": "2026-04-29",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 29 апреля 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/483123/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-04-29_483123.xls",
+    "bytes": 426496,
+    "sha256": "fe2b216894263d48c1b4aed0fd63c74a3a82378de7c33063ea01d2799c23df6a"
+  },
+  {
+    "element_id": "346521",
+    "observation_date": "2026-05-06",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (  на 6 мая 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/346521/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-05-06_346521.xlsx",
+    "bytes": 257949,
+    "sha256": "fec886dbaa3c62ea4c8d60362bfc0c2d921dab5e917e69e30533c69be27c0b62"
+  },
+  {
+    "element_id": "346522",
+    "observation_date": "2026-05-13",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 13 мая 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/346522/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-05-13_346522.xlsx",
+    "bytes": 257922,
+    "sha256": "8f342d8c521b343b4cdf94af16cb8eb3b1f49ede6c664dbc37468c571f9cf688"
+  },
+  {
+    "element_id": "346523",
+    "observation_date": "2026-05-20",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 20 мая 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/346523/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-05-20_346523.xlsx",
+    "bytes": 257850,
+    "sha256": "8075ec539d93001ef2c2b5d1670fc73d7f3520e9e254b5c0076beff85385a9cd"
+  },
+  {
+    "element_id": "346524",
+    "observation_date": "2026-05-26",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 26 мая 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/346524/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-05-26_346524.xlsx",
+    "bytes": 257939,
+    "sha256": "1b7f22370c21107fd226510a4a1dadbfd326284180d1845db3f430988d930790"
+  },
+  {
+    "element_id": "346910",
+    "observation_date": "2026-06-03",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 3 июня 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/346910/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-06-03_346910.xlsx",
+    "bytes": 257743,
+    "sha256": "e3b90b7c6c00f04e62e81c8d223526d9c1692298257cef40292d715221ae3781"
+  },
+  {
+    "element_id": "346911",
+    "observation_date": "2026-06-10",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 10 июня 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/346911/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-06-10_346911.xlsx",
+    "bytes": 257959,
+    "sha256": "ef66208b0f8689c07317328e57f723cea273f98a992d15a288397eb639a9a9c8"
+  },
+  {
+    "element_id": "346912",
+    "observation_date": "2026-06-17",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 17 июня 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/346912/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-06-17_346912.xlsx",
+    "bytes": 257943,
+    "sha256": "2ebe889317c9eab4f9c32b48b435f286c3da13d6ab1225b7d01b208b4971da20"
+  },
+  {
+    "element_id": "346913",
+    "observation_date": "2026-06-24",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 24 июня 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/346913/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-06-24_346913.xlsx",
+    "bytes": 257999,
+    "sha256": "5b72fea6b6273f8c3d6a5b74aa65a31ad81177ce30dc8d650dae480b666690d6"
+  },
+  {
+    "element_id": "347726",
+    "observation_date": "2026-07-01",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 1 июля 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/347726/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-07-01_347726.xlsx",
+    "bytes": 360401,
+    "sha256": "558ad3ab82dea6411473cf7714c1eecd00a4719093b6d96730a60530460db729"
+  },
+  {
+    "element_id": "347727",
+    "observation_date": "2026-07-08",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 8 июля 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/347727/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-07-08_347727.xlsx",
+    "bytes": 360673,
+    "sha256": "825111362469a4cf57bab1ef54c442edefe67aaa9973fe58c524041539f4833c"
+  },
+  {
+    "element_id": "347728",
+    "observation_date": "2026-07-15",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (  на 15 июля 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/347728/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-07-15_347728.xlsx",
+    "bytes": 360416,
+    "sha256": "9117217f119b7538acdc051ac6e74404bf5b32be9a96051466c4816c97d06d69"
+  },
+  {
+    "element_id": "347729",
+    "observation_date": "2026-07-22",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 22 июля 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/347729/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-07-22_347729.xlsx",
+    "bytes": 360350,
+    "sha256": "6b0317423777fbc8b0c5b048a0874a0f92a58f3c1a92a286091795d9f47f842d"
+  },
+  {
+    "element_id": "347730",
+    "observation_date": "2026-07-29",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 29 июля 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/347730/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-07-29_347730.xlsx",
+    "bytes": 360403,
+    "sha256": "26f52b08a30f2750dd05475d6e709462cba3cfbb576fdf4e5a76764584c30598"
+  },
+  {
+    "element_id": "335779",
+    "observation_date": "2026-08-05",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (  на 5 августа 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/335779/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-08-05_335779.xlsx",
+    "bytes": 360461,
+    "sha256": "9d6ae7a5f3ed69c4fa2faf9d0779b1f4da6439fee0815688038788c3b7ba819a"
+  },
+  {
+    "element_id": "335780",
+    "observation_date": "2026-08-12",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 12 августа 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/335780/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-08-12_335780.xlsx",
+    "bytes": 360497,
+    "sha256": "189851c0e8c080ddc28e382de2e7835d22fb18eb4b316013322ff62d422ec08d"
+  },
+  {
+    "element_id": "335781",
+    "observation_date": "2026-08-19",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 19 августа 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/335781/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-08-19_335781.xlsx",
+    "bytes": 360408,
+    "sha256": "1ea7e24e640bd1b93cc8e2a6deb1b04fcac18c8ff46b634afb3cd08039bde47a"
+  },
+  {
+    "element_id": "335782",
+    "observation_date": "2026-08-26",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 26 августа 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/335782/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-08-26_335782.xlsx",
+    "bytes": 360354,
+    "sha256": "ae9d090b35a9d993e6477fa5c35699b4949f454827aac66f48b506a4079a0228"
+  },
+  {
+    "element_id": "478146",
+    "observation_date": "2026-09-02",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 2 сентября 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/478146/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-09-02_478146.xlsx",
+    "bytes": 362831,
+    "sha256": "932df04ba369a13f6061f3a88e5e4edfb2fba9e00dee58cdbd11406c29f0ccc3"
+  },
+  {
+    "element_id": "478149",
+    "observation_date": "2026-09-09",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 9 сентября 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/478149/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-09-09_478149.xlsx",
+    "bytes": 360519,
+    "sha256": "09c7cc1783329bfcd7a2e25f3a1828f2d9f2002219ea0ef854735b3a2e5a5c68"
+  },
+  {
+    "element_id": "478151",
+    "observation_date": "2026-09-16",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 16 сентября 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/478151/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-09-16_478151.xlsx",
+    "bytes": 360334,
+    "sha256": "a61fe75fc829b925b3b552db26f13a21c671ca644ba8dc6dbde6590c1c44bc8f"
+  },
+  {
+    "element_id": "517457",
+    "observation_date": "2026-09-23",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 23 сентября 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/517457/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-09-23_517457.xlsx",
+    "bytes": 360482,
+    "sha256": "d48b8e5b88592c9246c3b8c3e1064b20e8273bb65214172342ab4669286ef3ce"
+  },
+  {
+    "element_id": "353638",
+    "observation_date": "2026-09-30",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 30 сентября 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/353638/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-09-30_353638.xlsx",
+    "bytes": 360335,
+    "sha256": "d5012e6da244186ad6dae7eef539ac2988c6b28564676535193624209325c8e8"
+  },
+  {
+    "element_id": "353639",
+    "observation_date": "2026-10-07",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (  на 7 октября 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/353639/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-10-07_353639.xlsx",
+    "bytes": 360252,
+    "sha256": "1241b315520e6ce2dbade694c22eaaede2bae362349937e347f2099365f544f4"
+  },
+  {
+    "element_id": "353640",
+    "observation_date": "2026-10-14",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 14 октября 2026г. )",
+    "url": "https://stat.gov.kz/api/iblock/element/353640/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-10-14_353640.xlsx",
+    "bytes": 360342,
+    "sha256": "b178dc0612efc47332a97f1e435728a7e85b2f377e6e4321eca8476e932aad00"
+  },
+  {
+    "element_id": "353641",
+    "observation_date": "2026-10-21",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 21 октября 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/353641/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-10-21_353641.xlsx",
+    "bytes": 360415,
+    "sha256": "1216b4796e06bbe5111c3be1adc57dfada5ab13415e65a9790a8922d3f27c849"
+  },
+  {
+    "element_id": "353642",
+    "observation_date": "2026-10-28",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 28 октября 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/353642/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-10-28_353642.xlsx",
+    "bytes": 360361,
+    "sha256": "817ee03cb4bde0f5e941d99459b3453b8f3133d711e5d7caac90dae22415f475"
+  },
+  {
+    "element_id": "355095",
+    "observation_date": "2026-11-04",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 4 ноября 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/355095/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-11-04_355095.xlsx",
+    "bytes": 360348,
+    "sha256": "a8b804db66327c2ecfb5cb1e5f2033bb79e8319b841c3ecd0f1fce0a051a2883"
+  },
+  {
+    "element_id": "355096",
+    "observation_date": "2026-11-11",
+    "title": "Индекс цен и средние цены на социально-значимые продовольственные товары в Республике Казахстан (на 11 ноября 2026г.)",
+    "url": "https://stat.gov.kz/api/iblock/element/355096/file/ru/",
+    "catalog_url": "https://stat.gov.kz/ru/industries/economy/prices/spreadsheets/?year=2026&name=19060&period=&type=",
+    "path": "data/raw/2026/2026-11-11_355096.xlsx",
+    "bytes": 360317,
+    "sha256": "c763718779fbbeac6efb9e0542b556865870c81d1dac45e452a65f36f82c6055"
+  }
+]
